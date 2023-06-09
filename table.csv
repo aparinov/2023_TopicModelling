@@ -1,0 +1,45 @@
+index	name	u	p	V	G	H	L
+	root	1.0	1.946	17.645	2. mathematics of computing; 3. information systems; 4. human-centered computing; 1.1.2. database theory; 1.1.1.1. sample complexity and generalization bounds; 1.1.1.2. boolean function learning; 1.1.1.4. kernel methods; 1.1.1.5. boosting; 1.1.1.7. inductive inference; 1.1.1.8. online learning theory; 1.1.1.9. multi-agent learning; 1.1.1.10. models of learning; 1.1.1.11. query learning; 1.1.1.12. structured prediction; 1.1.1.13. reinforcement learning; 1.1.1.14. active learning; 1.1.1.15. semi-supervised learning; 1.1.1.16. markov decision processes; 5.1. artificial intelligence; 5.2.1. learning paradigms; 5.2.2. learning settings; 5.2.3. machine learning approaches; 5.2.4.1. dynamic programming for markov decision processes; 5.2.4.2. ensemble methods; 5.2.4.3. spectral methods; 5.2.4.4. feature selection; 5.2.6.1 auto-encoder; 5.2.6.2. convolution neural network; 5.2.6.3. deep reinforcement learning drl; 5.2.6.4. recurrent neural networks rnn; 5.2.6.5. transformer nn	1.1.1.3. unsupervised learning and clustering; 1.1.1.6. bayesian analysis; 1.1.1.17. regret bounds; 5.2.4.5. regularization; 5.2.5. cross-validation; 5.2.6.6. generative adversarial networks gan	
+1	theory of computation	0.452	0.682	6.784	1.1.2. database theory; 1.1.1.1. sample complexity and generalization bounds; 1.1.1.2. boolean function learning; 1.1.1.4. kernel methods; 1.1.1.5. boosting; 1.1.1.7. inductive inference; 1.1.1.8. online learning theory; 1.1.1.9. multi-agent learning; 1.1.1.10. models of learning; 1.1.1.11. query learning; 1.1.1.12. structured prediction; 1.1.1.13. reinforcement learning; 1.1.1.14. active learning; 1.1.1.15. semi-supervised learning; 1.1.1.16. markov decision processes	1.1.1.3. unsupervised learning and clustering; 1.1.1.6. bayesian analysis; 1.1.1.17. regret bounds	
+1.1.1	machine learning theory	0.452	0.682	6.332	1.1.1.1. sample complexity and generalization bounds; 1.1.1.2. boolean function learning; 1.1.1.4. kernel methods; 1.1.1.5. boosting; 1.1.1.7. inductive inference; 1.1.1.8. online learning theory; 1.1.1.9. multi-agent learning; 1.1.1.10. models of learning; 1.1.1.11. query learning; 1.1.1.12. structured prediction; 1.1.1.13. reinforcement learning; 1.1.1.14. active learning; 1.1.1.15. semi-supervised learning; 1.1.1.16. markov decision processes	1.1.1.3. unsupervised learning and clustering; 1.1.1.6. bayesian analysis; 1.1.1.17. regret bounds	
+1.1.1.1	sample complexity and generalization bounds	0.0	0	0			
+1.1.1.10	models of learning	0.0	0	0			
+1.1.1.11	query learning	0.0	0	0			
+1.1.1.12	structured prediction	0.0	0	0			
+1.1.1.13	reinforcement learning	0.0	0	0.452	1.1.1.13. reinforcement learning		
+1.1.1.14	active learning	0.0	0	0			
+1.1.1.15	semi-supervised learning	0.0	0	0			
+1.1.1.16	markov decision processes	0.0	0	0			
+1.1.1.17	regret bounds	0.209	0.188	0		1.1.1.17. regret bounds	
+1.1.1.2	boolean function learning	0.0	0	0			
+1.1.1.3	unsupervised learning and clustering	0.346	0.311	0		1.1.1.3. unsupervised learning and clustering	
+1.1.1.4	kernel methods	0.0	0	0.452	1.1.1.4. kernel methods		
+1.1.1.5	boosting	0.0	0	0			
+1.1.1.6	bayesian analysis	0.204	0.183	0		1.1.1.6. bayesian analysis	
+1.1.1.7	inductive inference	0.0	0	0			
+1.1.1.8	online learning theory	0.0	0	0			
+1.1.1.9	multi-agent learning	0.0	0	0			
+1.1.2	database theory	0.0	0	0.452	1.1.2. database theory		
+2	mathematics of computing	0.0	0	1.0	2. mathematics of computing		
+3	information systems	0.0	0	1.0	3. information systems		
+4	human-centered computing	0.0	0	1.0	4. human-centered computing		
+5	computing methodologies	0.892	1.264	7.861	5.1. artificial intelligence; 5.2.1. learning paradigms; 5.2.2. learning settings; 5.2.3. machine learning approaches; 5.2.4.1. dynamic programming for markov decision processes; 5.2.4.2. ensemble methods; 5.2.4.3. spectral methods; 5.2.4.4. feature selection; 5.2.6.1 auto-encoder; 5.2.6.2. convolution neural network; 5.2.6.3. deep reinforcement learning drl; 5.2.6.4. recurrent neural networks rnn; 5.2.6.5. transformer nn	5.2.4.5. regularization; 5.2.5. cross-validation; 5.2.6.6. generative adversarial networks gan	
+5.1	artificial intelligence	0.0	0	0.892	5.1. artificial intelligence		
+5.2	machine learning	0.892	1.264	6.969	5.2.1. learning paradigms; 5.2.2. learning settings; 5.2.3. machine learning approaches; 5.2.4.1. dynamic programming for markov decision processes; 5.2.4.2. ensemble methods; 5.2.4.3. spectral methods; 5.2.4.4. feature selection; 5.2.6.1 auto-encoder; 5.2.6.2. convolution neural network; 5.2.6.3. deep reinforcement learning drl; 5.2.6.4. recurrent neural networks rnn; 5.2.6.5. transformer nn	5.2.4.5. regularization; 5.2.5. cross-validation; 5.2.6.6. generative adversarial networks gan	
+5.2.1	learning paradigms	0.0	0	0.892	5.2.1. learning paradigms		
+5.2.2	learning settings	0.0	0	0.892	5.2.2. learning settings		
+5.2.3	machine learning approaches	0.0	0	0.892	5.2.3. machine learning approaches		
+5.2.4	machine learning algorithms	0.76	0.684	3.04	5.2.4.1. dynamic programming for markov decision processes; 5.2.4.2. ensemble methods; 5.2.4.3. spectral methods; 5.2.4.4. feature selection	5.2.4.5. regularization	
+5.2.4.1	dynamic programming for markov decision processes	0.0	0	0.76	5.2.4.1. dynamic programming for markov decision processes		
+5.2.4.2	ensemble methods	0.0	0	0.76	5.2.4.2. ensemble methods		
+5.2.4.3	spectral methods	0.0	0	0.76	5.2.4.3. spectral methods		
+5.2.4.4	feature selection	0.0	0	0			
+5.2.4.5	regularization	0.76	0.684	0		5.2.4.5. regularization	
+5.2.5	cross-validation	0.394	0.354	0		5.2.5. cross-validation	
+5.2.6	deep learning	0.251	0.226	1.254	5.2.6.1 auto-encoder; 5.2.6.2. convolution neural network; 5.2.6.3. deep reinforcement learning drl; 5.2.6.4. recurrent neural networks rnn; 5.2.6.5. transformer nn	5.2.6.6. generative adversarial networks gan	
+5.2.6.1	auto-encoder	0.0	0	0			
+5.2.6.2	convolution neural network	0.0	0	0.251	5.2.6.2. convolution neural network		
+5.2.6.3	deep reinforcement learning drl	0.0	0	0			
+5.2.6.4	recurrent neural networks rnn	0.0	0	0			
+5.2.6.5	transformer nn	0.0	0	0			
+5.2.6.6	generative adversarial networks gan	0.251	0.226	0		5.2.6.6. generative adversarial networks gan	
