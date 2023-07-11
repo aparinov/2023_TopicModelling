@@ -1,0 +1,152 @@
+index	name	u	p	V	G	H	L
+	root	1.0	2.736	37.993	1. theory of computation; 2.2. multiway data analysis; 2.1.2. probabilistic inference problems; 2.1.3. probabilistic reasoning algorithms; 2.1.4. probabilistic algorithms; 2.1.5. statistical paradigms; 2.1.6. stochastic processes; 2.1.7. nonparametric statistics; 2.1.8. distribution functions; 2.1.9. multivariate statistics; 2.1.1.1. bayesian networks; 2.1.1.2. markov networks; 2.1.1.3. factor graphs; 2.1.1.5. equational models; 2.1.1.6. causal networks; 2.1.1.7. stochastic differential equations; 2.1.1.8. nonparametric representations; 3.3. world wide web; 3.5. internet of things; 3.1.1. database design and models; 3.1.2. data structures; 3.1.5. information integration; 3.1.3.1. dbms engine architectures; 3.1.3.3. database transaction processing; 3.1.3.4. record and buffer management; 3.1.3.5. parallel and distributed dbmss; 3.1.3.6. triggers and rules; 3.1.3.7. database views; 3.1.3.8. integrity checking; 3.1.3.9. distributed database transactions; 3.1.3.10. main memory engines; 3.1.3.11. online analytical processing engines; 3.1.3.12. stream management; 3.1.3.13. big data; 3.1.3.2.2. query operators; 3.1.3.2.3. query planning; 3.1.3.2.4. join algorithms; 3.1.4.1. relational database query languages; 3.1.4.3. query languages for non-relational engines; 3.1.4.4. call level interfaces; 3.1.4.2.1 xpath; 3.2.1.1. data cleaning; 3.2.1.2. collaborative filtering; 3.2.1.3. association rules; 3.2.1.4. clustering; 3.2.1.5. nearest-neighbor search; 3.2.1.6. data stream mining; 3.2.1.7. graph mining; 3.2.1.11. text mining; 3.2.1.10. data mining tools; 3.2.1.9. sequence mining; 3.2.1.12. formal concept analysis; 3.4.1. document representation; 3.4.2. information retrieval query processing; 3.4.3. users and interactive retrieval; 3.4.5. retrieval tasks and goals; 3.4.6. evaluation of retrieval results; 3.4.7. specialized information retrieval; 3.4.4.1. rank aggregation; 3.4.4.3. language models; 3.4.4.4. similarity measures; 3.4.4.5. learning to rank; 3.4.4.6. combination fusion and federated search; 3.4.4.7. information retrieval diversity; 3.4.4.8. top-k retrieval in databases; 3.4.4.9. novelty in information retrieval; 4.1.2. visualization techniques; 4.1.3. visualization application domains; 4.1.4. visualization systems and tools; 4.1.5. visualization theory concepts and paradigms; 4.1.6. empirical studies in visualization; 5.1.2. knowledge engineering; 5.1.1.2. information extraction; 5.1.1.3. machine translation; 5.1.1.4. discourse dialogue and pragmatics; 5.1.1.5. natural language generation; 5.1.1.6. speech recognition; 5.1.1.7. lexical semantics; 5.1.1.8. phonology; 5.1.3.2. computer vision representations; 5.1.3.1.1. interest point and salient region detections; 5.1.3.1.2. image segmentation; 5.1.3.1.3. video segmentation; 5.1.3.1.5. object detection; 5.1.3.1.6. object recognition; 5.1.3.1.7. object identification; 5.1.3.1.8. tracking; 5.1.3.1.9. reconstruction; 5.1.3.1.10. matching; 5.2.1. learning paradigms; 5.2.2. learning settings; 5.2.4. machine learning algorithms; 5.2.5. cross-validation; 5.2.3.1. classification and regression trees; 5.2.3.3. neural networks; 5.2.3.4. logical and relational learning; 5.2.3.5. learning in probabilistic graphical models; 5.2.3.6. learning linear models; 5.2.3.7. factorization methods; 5.2.3.8. rule learning; 5.2.3.9. instance-based learning; 5.2.3.10. markov decision processes; 5.2.3.11. partially-observable markov decision processes; 5.2.3.12. stochastic games; 5.2.3.13. learning latent representations; 5.2.3.14. multiresolution; 5.2.3.15. support vector machines; 5.2.3.2.1. kernel support vector machines; 5.2.3.2.2. gaussian processes; 5.2.3.2.3. kernel matrix; 5.2.3.2.4. kernel independent components; 5.2.6.1 auto-encoder; 5.2.6.3. deep reinforcement learning drl; 5.2.6.4. recurrent neural networks rnn; 5.2.6.5. transformer nn; 5.2.6.6. generative adversarial networks gan; 5.2.6.2.1. pooling	2.1.1.4. decision diagrams; 3.1.3.2.1. query optimization; 3.1.4.2.2. xquery; 3.2.1.8. process mining; 3.4.4.2. probabilistic retrieval models; 4.1.7. visualization design and evaluation methods; 5.1.1.9. language resources; 5.1.3.1.4. shape inference; 5.2.3.2.5. kernel-based clustering; 5.2.6.2.2. dropout	
+1	theory of computation	0.0	0	1.0	1. theory of computation		
+2	mathematics of computing	0.491	0.442	7.853	2.2. multiway data analysis; 2.1.2. probabilistic inference problems; 2.1.3. probabilistic reasoning algorithms; 2.1.4. probabilistic algorithms; 2.1.5. statistical paradigms; 2.1.6. stochastic processes; 2.1.7. nonparametric statistics; 2.1.8. distribution functions; 2.1.9. multivariate statistics; 2.1.1.1. bayesian networks; 2.1.1.2. markov networks; 2.1.1.3. factor graphs; 2.1.1.5. equational models; 2.1.1.6. causal networks; 2.1.1.7. stochastic differential equations; 2.1.1.8. nonparametric representations	2.1.1.4. decision diagrams	
+2.1	probability and statistics	0.491	0.442	7.362	2.1.2. probabilistic inference problems; 2.1.3. probabilistic reasoning algorithms; 2.1.4. probabilistic algorithms; 2.1.5. statistical paradigms; 2.1.6. stochastic processes; 2.1.7. nonparametric statistics; 2.1.8. distribution functions; 2.1.9. multivariate statistics; 2.1.1.1. bayesian networks; 2.1.1.2. markov networks; 2.1.1.3. factor graphs; 2.1.1.5. equational models; 2.1.1.6. causal networks; 2.1.1.7. stochastic differential equations; 2.1.1.8. nonparametric representations	2.1.1.4. decision diagrams	
+2.1.1	probabilistic representations	0.491	0.442	3.436	2.1.1.1. bayesian networks; 2.1.1.2. markov networks; 2.1.1.3. factor graphs; 2.1.1.5. equational models; 2.1.1.6. causal networks; 2.1.1.7. stochastic differential equations; 2.1.1.8. nonparametric representations	2.1.1.4. decision diagrams	
+2.1.1.1	bayesian networks	0.0	0	0			
+2.1.1.2	markov networks	0.0	0	0			
+2.1.1.3	factor graphs	0.0	0	0			
+2.1.1.4	decision diagrams	0.491	0.442	0		2.1.1.4. decision diagrams	
+2.1.1.5	equational models	0.0	0	0			
+2.1.1.6	causal networks	0.0	0	0			
+2.1.1.7	stochastic differential equations	0.0	0	0			
+2.1.1.8	nonparametric representations	0.0	0	0.491	2.1.1.8. nonparametric representations		
+2.1.2	probabilistic inference problems	0.0	0	0.491	2.1.2. probabilistic inference problems		
+2.1.3	probabilistic reasoning algorithms	0.0	0	0.491	2.1.3. probabilistic reasoning algorithms		
+2.1.4	probabilistic algorithms	0.0	0	0			
+2.1.5	statistical paradigms	0.0	0	0.491	2.1.5. statistical paradigms		
+2.1.6	stochastic processes	0.0	0	0.491	2.1.6. stochastic processes		
+2.1.7	nonparametric statistics	0.0	0	0			
+2.1.8	distribution functions	0.0	0	0			
+2.1.9	multivariate statistics	0.0	0	0			
+2.2	multiway data analysis	0.0	0	0.491	2.2. multiway data analysis		
+3	information systems	0.493	0.885	12.877	3.3. world wide web; 3.5. internet of things; 3.1.1. database design and models; 3.1.2. data structures; 3.1.5. information integration; 3.1.3.1. dbms engine architectures; 3.1.3.3. database transaction processing; 3.1.3.4. record and buffer management; 3.1.3.5. parallel and distributed dbmss; 3.1.3.6. triggers and rules; 3.1.3.7. database views; 3.1.3.8. integrity checking; 3.1.3.9. distributed database transactions; 3.1.3.10. main memory engines; 3.1.3.11. online analytical processing engines; 3.1.3.12. stream management; 3.1.3.13. big data; 3.1.3.2.2. query operators; 3.1.3.2.3. query planning; 3.1.3.2.4. join algorithms; 3.1.4.1. relational database query languages; 3.1.4.3. query languages for non-relational engines; 3.1.4.4. call level interfaces; 3.1.4.2.1 xpath; 3.2.1.1. data cleaning; 3.2.1.2. collaborative filtering; 3.2.1.3. association rules; 3.2.1.4. clustering; 3.2.1.5. nearest-neighbor search; 3.2.1.6. data stream mining; 3.2.1.7. graph mining; 3.2.1.11. text mining; 3.2.1.10. data mining tools; 3.2.1.9. sequence mining; 3.2.1.12. formal concept analysis; 3.4.1. document representation; 3.4.2. information retrieval query processing; 3.4.3. users and interactive retrieval; 3.4.5. retrieval tasks and goals; 3.4.6. evaluation of retrieval results; 3.4.7. specialized information retrieval; 3.4.4.1. rank aggregation; 3.4.4.3. language models; 3.4.4.4. similarity measures; 3.4.4.5. learning to rank; 3.4.4.6. combination fusion and federated search; 3.4.4.7. information retrieval diversity; 3.4.4.8. top-k retrieval in databases; 3.4.4.9. novelty in information retrieval	3.1.3.2.1. query optimization; 3.1.4.2.2. xquery; 3.2.1.8. process mining; 3.4.4.2. probabilistic retrieval models	
+3.1	data management systems	0.322	0.41	5.305	3.1.1. database design and models; 3.1.2. data structures; 3.1.5. information integration; 3.1.3.1. dbms engine architectures; 3.1.3.3. database transaction processing; 3.1.3.4. record and buffer management; 3.1.3.5. parallel and distributed dbmss; 3.1.3.6. triggers and rules; 3.1.3.7. database views; 3.1.3.8. integrity checking; 3.1.3.9. distributed database transactions; 3.1.3.10. main memory engines; 3.1.3.11. online analytical processing engines; 3.1.3.12. stream management; 3.1.3.13. big data; 3.1.3.2.2. query operators; 3.1.3.2.3. query planning; 3.1.3.2.4. join algorithms; 3.1.4.1. relational database query languages; 3.1.4.3. query languages for non-relational engines; 3.1.4.4. call level interfaces; 3.1.4.2.1 xpath	3.1.3.2.1. query optimization; 3.1.4.2.2. xquery	
+3.1.1	database design and models	0.0	0	0.322	3.1.1. database design and models		
+3.1.2	data structures	0.0	0	0.322	3.1.2. data structures		
+3.1.3	database management system engines	0.229	0.206	3.435	3.1.3.1. dbms engine architectures; 3.1.3.3. database transaction processing; 3.1.3.4. record and buffer management; 3.1.3.5. parallel and distributed dbmss; 3.1.3.6. triggers and rules; 3.1.3.7. database views; 3.1.3.8. integrity checking; 3.1.3.9. distributed database transactions; 3.1.3.10. main memory engines; 3.1.3.11. online analytical processing engines; 3.1.3.12. stream management; 3.1.3.13. big data; 3.1.3.2.2. query operators; 3.1.3.2.3. query planning; 3.1.3.2.4. join algorithms	3.1.3.2.1. query optimization	
+3.1.3.1	dbms engine architectures	0.0	0	0			
+3.1.3.10	main memory engines	0.0	0	0			
+3.1.3.11	online analytical processing engines	0.0	0	0			
+3.1.3.12	stream management	0.0	0	0			
+3.1.3.13	big data	0.0	0	0.229	3.1.3.13. big data		
+3.1.3.2	database query processing	0.229	0.206	0.687	3.1.3.2.2. query operators; 3.1.3.2.3. query planning; 3.1.3.2.4. join algorithms	3.1.3.2.1. query optimization	
+3.1.3.2.1	query optimization	0.229	0.206	0		3.1.3.2.1. query optimization	
+3.1.3.2.2	query operators	0.0	0	0			
+3.1.3.2.3	query planning	0.0	0	0			
+3.1.3.2.4	join algorithms	0.0	0	0			
+3.1.3.3	database transaction processing	0.0	0	0.229	3.1.3.3. database transaction processing		
+3.1.3.4	record and buffer management	0.0	0	0			
+3.1.3.5	parallel and distributed dbmss	0.0	0	0.229	3.1.3.5. parallel and distributed dbmss		
+3.1.3.6	triggers and rules	0.0	0	0			
+3.1.3.7	database views	0.0	0	0			
+3.1.3.8	integrity checking	0.0	0	0			
+3.1.3.9	distributed database transactions	0.0	0	0.229	3.1.3.9. distributed database transactions		
+3.1.4	query languages	0.226	0.203	0.904	3.1.4.1. relational database query languages; 3.1.4.3. query languages for non-relational engines; 3.1.4.4. call level interfaces; 3.1.4.2.1 xpath	3.1.4.2.2. xquery	
+3.1.4.1	relational database query languages	0.0	0	0.226	3.1.4.1. relational database query languages		
+3.1.4.2	xml query languages	0.226	0.203	0.226	3.1.4.2.1 xpath	3.1.4.2.2. xquery	
+3.1.4.2.1	xpath	0.0	0	0			
+3.1.4.2.2	xquery	0.226	0.203	0		3.1.4.2.2. xquery	
+3.1.4.3	query languages for non-relational engines	0.0	0	0.226	3.1.4.3. query languages for non-relational engines		
+3.1.4.4	call level interfaces	0.0	0	0			
+3.1.5	information integration	0.0	0	0.322	3.1.5. information integration		
+3.2	information systems applications	0.269	0.242	2.961	3.2.1.1. data cleaning; 3.2.1.2. collaborative filtering; 3.2.1.3. association rules; 3.2.1.4. clustering; 3.2.1.5. nearest-neighbor search; 3.2.1.6. data stream mining; 3.2.1.7. graph mining; 3.2.1.11. text mining; 3.2.1.10. data mining tools; 3.2.1.9. sequence mining; 3.2.1.12. formal concept analysis	3.2.1.8. process mining	
+3.2.1.1	data cleaning	0.0	0	0			
+3.2.1.10	data mining tools	0.0	0	0			
+3.2.1.11	text mining	0.0	0	0.269	3.2.1.11. text mining		
+3.2.1.12	formal concept analysis	0.0	0	0			
+3.2.1.2	collaborative filtering	0.0	0	0.269	3.2.1.2. collaborative filtering		
+3.2.1.3	association rules	0.0	0	0.269	3.2.1.3. association rules		
+3.2.1.4	clustering	0.0	0	0.269	3.2.1.4. clustering		
+3.2.1.5	nearest-neighbor search	0.0	0	0			
+3.2.1.6	data stream mining	0.0	0	0			
+3.2.1.7	graph mining	0.0	0	0.269	3.2.1.7. graph mining		
+3.2.1.8	process mining	0.269	0.242	0		3.2.1.8. process mining	
+3.2.1.9	sequence mining	0.0	0	0.269	3.2.1.9. sequence mining		
+3.3	world wide web	0.0	0	0.493	3.3. world wide web		
+3.4	information retrieval	0.259	0.233	3.626	3.4.1. document representation; 3.4.2. information retrieval query processing; 3.4.3. users and interactive retrieval; 3.4.5. retrieval tasks and goals; 3.4.6. evaluation of retrieval results; 3.4.7. specialized information retrieval; 3.4.4.1. rank aggregation; 3.4.4.3. language models; 3.4.4.4. similarity measures; 3.4.4.5. learning to rank; 3.4.4.6. combination fusion and federated search; 3.4.4.7. information retrieval diversity; 3.4.4.8. top-k retrieval in databases; 3.4.4.9. novelty in information retrieval	3.4.4.2. probabilistic retrieval models	
+3.4.1	document representation	0.0	0	0.259	3.4.1. document representation		
+3.4.2	information retrieval query processing	0.0	0	0.259	3.4.2. information retrieval query processing		
+3.4.3	users and interactive retrieval	0.0	0	0.259	3.4.3. users and interactive retrieval		
+3.4.4	retrieval models and ranking	0.259	0.233	2.072	3.4.4.1. rank aggregation; 3.4.4.3. language models; 3.4.4.4. similarity measures; 3.4.4.5. learning to rank; 3.4.4.6. combination fusion and federated search; 3.4.4.7. information retrieval diversity; 3.4.4.8. top-k retrieval in databases; 3.4.4.9. novelty in information retrieval	3.4.4.2. probabilistic retrieval models	
+3.4.4.1	rank aggregation	0.0	0	0			
+3.4.4.2	probabilistic retrieval models	0.259	0.233	0		3.4.4.2. probabilistic retrieval models	
+3.4.4.3	language models	0.0	0	0			
+3.4.4.4	similarity measures	0.0	0	0			
+3.4.4.5	learning to rank	0.0	0	0			
+3.4.4.6	combination fusion and federated search	0.0	0	0			
+3.4.4.7	information retrieval diversity	0.0	0	0			
+3.4.4.8	top-k retrieval in databases	0.0	0	0			
+3.4.4.9	novelty in information retrieval	0.0	0	0			
+3.4.5	retrieval tasks and goals	0.0	0	0.259	3.4.5. retrieval tasks and goals		
+3.4.6	evaluation of retrieval results	0.0	0	0.259	3.4.6. evaluation of retrieval results		
+3.4.7	specialized information retrieval	0.0	0	0.259	3.4.7. specialized information retrieval		
+3.5	internet of things	0.0	0	0.493	3.5. internet of things		
+4	human-centered computing	0.229	0.206	1.144	4.1.2. visualization techniques; 4.1.3. visualization application domains; 4.1.4. visualization systems and tools; 4.1.5. visualization theory concepts and paradigms; 4.1.6. empirical studies in visualization	4.1.7. visualization design and evaluation methods	
+4.1.2	visualization techniques	0.0	0	0.229	4.1.2. visualization techniques		
+4.1.3	visualization application domains	0.0	0	0.229	4.1.3. visualization application domains		
+4.1.4	visualization systems and tools	0.0	0	0.229	4.1.4. visualization systems and tools		
+4.1.5	visualization theory concepts and paradigms	0.0	0	0			
+4.1.6	empirical studies in visualization	0.0	0	0			
+4.1.7	visualization design and evaluation methods	0.229	0.206	0		4.1.7. visualization design and evaluation methods	
+5	computing methodologies	0.681	1.204	15.118	5.1.2. knowledge engineering; 5.1.1.2. information extraction; 5.1.1.3. machine translation; 5.1.1.4. discourse dialogue and pragmatics; 5.1.1.5. natural language generation; 5.1.1.6. speech recognition; 5.1.1.7. lexical semantics; 5.1.1.8. phonology; 5.1.3.2. computer vision representations; 5.1.3.1.1. interest point and salient region detections; 5.1.3.1.2. image segmentation; 5.1.3.1.3. video segmentation; 5.1.3.1.5. object detection; 5.1.3.1.6. object recognition; 5.1.3.1.7. object identification; 5.1.3.1.8. tracking; 5.1.3.1.9. reconstruction; 5.1.3.1.10. matching; 5.2.1. learning paradigms; 5.2.2. learning settings; 5.2.4. machine learning algorithms; 5.2.5. cross-validation; 5.2.3.1. classification and regression trees; 5.2.3.3. neural networks; 5.2.3.4. logical and relational learning; 5.2.3.5. learning in probabilistic graphical models; 5.2.3.6. learning linear models; 5.2.3.7. factorization methods; 5.2.3.8. rule learning; 5.2.3.9. instance-based learning; 5.2.3.10. markov decision processes; 5.2.3.11. partially-observable markov decision processes; 5.2.3.12. stochastic games; 5.2.3.13. learning latent representations; 5.2.3.14. multiresolution; 5.2.3.15. support vector machines; 5.2.3.2.1. kernel support vector machines; 5.2.3.2.2. gaussian processes; 5.2.3.2.3. kernel matrix; 5.2.3.2.4. kernel independent components; 5.2.6.1 auto-encoder; 5.2.6.3. deep reinforcement learning drl; 5.2.6.4. recurrent neural networks rnn; 5.2.6.5. transformer nn; 5.2.6.6. generative adversarial networks gan; 5.2.6.2.1. pooling	5.1.1.9. language resources; 5.1.3.1.4. shape inference; 5.2.3.2.5. kernel-based clustering; 5.2.6.2.2. dropout	
+5.1	artificial intelligence	0.488	0.618	6.421	5.1.2. knowledge engineering; 5.1.1.2. information extraction; 5.1.1.3. machine translation; 5.1.1.4. discourse dialogue and pragmatics; 5.1.1.5. natural language generation; 5.1.1.6. speech recognition; 5.1.1.7. lexical semantics; 5.1.1.8. phonology; 5.1.3.2. computer vision representations; 5.1.3.1.1. interest point and salient region detections; 5.1.3.1.2. image segmentation; 5.1.3.1.3. video segmentation; 5.1.3.1.5. object detection; 5.1.3.1.6. object recognition; 5.1.3.1.7. object identification; 5.1.3.1.8. tracking; 5.1.3.1.9. reconstruction; 5.1.3.1.10. matching	5.1.1.9. language resources; 5.1.3.1.4. shape inference	
+5.1.1	natural language processing	0.313	0.281	2.188	5.1.1.2. information extraction; 5.1.1.3. machine translation; 5.1.1.4. discourse dialogue and pragmatics; 5.1.1.5. natural language generation; 5.1.1.6. speech recognition; 5.1.1.7. lexical semantics; 5.1.1.8. phonology	5.1.1.9. language resources	
+5.1.1.2	information extraction	0.0	0	0			
+5.1.1.3	machine translation	0.0	0	0			
+5.1.1.4	discourse dialogue and pragmatics	0.0	0	0			
+5.1.1.5	natural language generation	0.0	0	0			
+5.1.1.6	speech recognition	0.0	0	0			
+5.1.1.7	lexical semantics	0.0	0	0.313	5.1.1.7. lexical semantics		
+5.1.1.8	phonology	0.0	0	0			
+5.1.1.9	language resources	0.313	0.281	0		5.1.1.9. language resources	
+5.1.2	knowledge engineering	0.0	0	0.488	5.1.2. knowledge engineering		
+5.1.3	computer vision	0.374	0.337	3.744	5.1.3.2. computer vision representations; 5.1.3.1.1. interest point and salient region detections; 5.1.3.1.2. image segmentation; 5.1.3.1.3. video segmentation; 5.1.3.1.5. object detection; 5.1.3.1.6. object recognition; 5.1.3.1.7. object identification; 5.1.3.1.8. tracking; 5.1.3.1.9. reconstruction; 5.1.3.1.10. matching	5.1.3.1.4. shape inference	
+5.1.3.1	computer vision problems	0.374	0.337	3.37	5.1.3.1.1. interest point and salient region detections; 5.1.3.1.2. image segmentation; 5.1.3.1.3. video segmentation; 5.1.3.1.5. object detection; 5.1.3.1.6. object recognition; 5.1.3.1.7. object identification; 5.1.3.1.8. tracking; 5.1.3.1.9. reconstruction; 5.1.3.1.10. matching	5.1.3.1.4. shape inference	
+5.1.3.1.1	interest point and salient region detections	0.0	0	0			
+5.1.3.1.10	matching	0.0	0	0			
+5.1.3.1.2	image segmentation	0.0	0	0			
+5.1.3.1.3	video segmentation	0.0	0	0			
+5.1.3.1.4	shape inference	0.374	0.337	0		5.1.3.1.4. shape inference	
+5.1.3.1.5	object detection	0.0	0	0			
+5.1.3.1.6	object recognition	0.0	0	0			
+5.1.3.1.7	object identification	0.0	0	0			
+5.1.3.1.8	tracking	0.0	0	0			
+5.1.3.1.9	reconstruction	0.0	0	0			
+5.1.3.2	computer vision representations	0.0	0	0.374	5.1.3.2. computer vision representations		
+5.2	machine learning	0.475	0.585	8.698	5.2.1. learning paradigms; 5.2.2. learning settings; 5.2.4. machine learning algorithms; 5.2.5. cross-validation; 5.2.3.1. classification and regression trees; 5.2.3.3. neural networks; 5.2.3.4. logical and relational learning; 5.2.3.5. learning in probabilistic graphical models; 5.2.3.6. learning linear models; 5.2.3.7. factorization methods; 5.2.3.8. rule learning; 5.2.3.9. instance-based learning; 5.2.3.10. markov decision processes; 5.2.3.11. partially-observable markov decision processes; 5.2.3.12. stochastic games; 5.2.3.13. learning latent representations; 5.2.3.14. multiresolution; 5.2.3.15. support vector machines; 5.2.3.2.1. kernel support vector machines; 5.2.3.2.2. gaussian processes; 5.2.3.2.3. kernel matrix; 5.2.3.2.4. kernel independent components; 5.2.6.1 auto-encoder; 5.2.6.3. deep reinforcement learning drl; 5.2.6.4. recurrent neural networks rnn; 5.2.6.5. transformer nn; 5.2.6.6. generative adversarial networks gan; 5.2.6.2.1. pooling	5.2.3.2.5. kernel-based clustering; 5.2.6.2.2. dropout	
+5.2.1	learning paradigms	0.0	0	0.475	5.2.1. learning paradigms		
+5.2.2	learning settings	0.0	0	0.475	5.2.2. learning settings		
+5.2.3	machine learning approaches	0.241	0.217	4.341	5.2.3.1. classification and regression trees; 5.2.3.3. neural networks; 5.2.3.4. logical and relational learning; 5.2.3.5. learning in probabilistic graphical models; 5.2.3.6. learning linear models; 5.2.3.7. factorization methods; 5.2.3.8. rule learning; 5.2.3.9. instance-based learning; 5.2.3.10. markov decision processes; 5.2.3.11. partially-observable markov decision processes; 5.2.3.12. stochastic games; 5.2.3.13. learning latent representations; 5.2.3.14. multiresolution; 5.2.3.15. support vector machines; 5.2.3.2.1. kernel support vector machines; 5.2.3.2.2. gaussian processes; 5.2.3.2.3. kernel matrix; 5.2.3.2.4. kernel independent components	5.2.3.2.5. kernel-based clustering	
+5.2.3.1	classification and regression trees	0.0	0	0.241	5.2.3.1. classification and regression trees		
+5.2.3.10	markov decision processes	0.0	0	0			
+5.2.3.11	partially-observable markov decision processes	0.0	0	0			
+5.2.3.12	stochastic games	0.0	0	0			
+5.2.3.13	learning latent representations	0.0	0	0.241	5.2.3.13. learning latent representations		
+5.2.3.14	multiresolution	0.0	0	0			
+5.2.3.15	support vector machines	0.0	0	0			
+5.2.3.2	kernel methods	0.241	0.217	0.965	5.2.3.2.1. kernel support vector machines; 5.2.3.2.2. gaussian processes; 5.2.3.2.3. kernel matrix; 5.2.3.2.4. kernel independent components	5.2.3.2.5. kernel-based clustering	
+5.2.3.2.1	kernel support vector machines	0.0	0	0.241	5.2.3.2.1. kernel support vector machines		
+5.2.3.2.2	gaussian processes	0.0	0	0			
+5.2.3.2.3	kernel matrix	0.0	0	0			
+5.2.3.2.4	kernel independent components	0.0	0	0			
+5.2.3.2.5	kernel-based clustering	0.241	0.217	0		5.2.3.2.5. kernel-based clustering	
+5.2.3.3	neural networks	0.0	0	0.241	5.2.3.3. neural networks		
+5.2.3.4	logical and relational learning	0.0	0	0.241	5.2.3.4. logical and relational learning		
+5.2.3.5	learning in probabilistic graphical models	0.0	0	0.241	5.2.3.5. learning in probabilistic graphical models		
+5.2.3.6	learning linear models	0.0	0	0.241	5.2.3.6. learning linear models		
+5.2.3.7	factorization methods	0.0	0	0.241	5.2.3.7. factorization methods		
+5.2.3.8	rule learning	0.0	0	0.241	5.2.3.8. rule learning		
+5.2.3.9	instance-based learning	0.0	0	0			
+5.2.4	machine learning algorithms	0.0	0	0.475	5.2.4. machine learning algorithms		
+5.2.5	cross-validation	0.0	0	0			
+5.2.6	deep learning	0.409	0.368	2.456	5.2.6.1 auto-encoder; 5.2.6.3. deep reinforcement learning drl; 5.2.6.4. recurrent neural networks rnn; 5.2.6.5. transformer nn; 5.2.6.6. generative adversarial networks gan; 5.2.6.2.1. pooling	5.2.6.2.2. dropout	
+5.2.6.1	auto-encoder	0.0	0	0			
+5.2.6.2	convolution neural network	0.409	0.368	0.409	5.2.6.2.1. pooling	5.2.6.2.2. dropout	
+5.2.6.2.1	pooling	0.0	0	0			
+5.2.6.2.2	dropout	0.409	0.368	0		5.2.6.2.2. dropout	
+5.2.6.3	deep reinforcement learning drl	0.0	0	0			
+5.2.6.4	recurrent neural networks rnn	0.0	0	0			
+5.2.6.5	transformer nn	0.0	0	0			
+5.2.6.6	generative adversarial networks gan	0.0	0	0			
