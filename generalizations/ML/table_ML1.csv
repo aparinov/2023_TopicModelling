@@ -1,0 +1,111 @@
+index	name	u	p	V	G	H	L
+	root	1.0	1.999	36.126	4. human-centered computing; 1.1.2. database theory; 1.1.1.1. sample complexity and generalization bounds; 1.1.1.2. boolean function learning; 1.1.1.3. unsupervised learning and clustering; 1.1.1.5. boosting; 1.1.1.6. bayesian analysis; 1.1.1.7. inductive inference; 1.1.1.8. online learning theory; 1.1.1.9. multi-agent learning; 1.1.1.10. models of learning; 1.1.1.11. query learning; 1.1.1.12. structured prediction; 1.1.1.13. reinforcement learning; 1.1.1.14. active learning; 1.1.1.15. semi-supervised learning; 1.1.1.16. markov decision processes; 1.1.1.17. regret bounds; 1.1.1.4.2. gaussian processes; 1.1.1.4.3. modelling; 2.2. multiway data analysis; 2.1.2. probabilistic inference problems; 2.1.3. probabilistic reasoning algorithms; 2.1.4. probabilistic algorithms; 2.1.5. statistical paradigms; 2.1.6. stochastic processes; 2.1.7. nonparametric statistics; 2.1.8. distribution functions; 2.1.9. multivariate statistics; 2.1.1.1. bayesian networks; 2.1.1.3. factor graphs; 2.1.1.4. decision diagrams; 2.1.1.5. equational models; 2.1.1.6. causal networks; 2.1.1.7. stochastic differential equations; 2.1.1.8. nonparametric representations; 3.1. data management systems; 3.3. world wide web; 3.4. information retrieval; 3.5. internet of things; 3.2.1.1. data cleaning; 3.2.1.2. collaborative filtering; 3.2.1.3. association rules; 3.2.1.4. clustering; 3.2.1.5. nearest-neighbor search; 3.2.1.6. data stream mining; 3.2.1.8. process mining; 3.2.1.11. text mining; 3.2.1.10. data mining tools; 3.2.1.9. sequence mining; 3.2.1.12. formal concept analysis; 3.2.1.7.1. graph partitioning; 3.2.1.7.2. frequent graph mining; 3.2.1.7.3. graph based conceptual clustering; 3.2.1.7.5. critical nodes detection; 5.1. artificial intelligence; 5.2.2. learning settings; 5.2.4. machine learning algorithms; 5.2.5. cross-validation; 5.2.6. deep learning; 5.2.1.1. supervised learning; 5.2.1.4. multi-task learning; 5.2.1.2.1. cluster analysis; 5.2.1.2.3. mixture modeling; 5.2.1.2.4. topic modeling; 5.2.1.2.5. source separation; 5.2.1.2.6. motif discovery; 5.2.1.2.7. dimensionality reduction and manifold learning; 5.2.3.1. classification and regression trees; 5.2.3.2. kernel methods; 5.2.3.3. neural networks; 5.2.3.4. logical and relational learning; 5.2.3.6. learning linear models; 5.2.3.7. factorization methods; 5.2.3.8. rule learning; 5.2.3.9. instance-based learning; 5.2.3.11. partially-observable markov decision processes; 5.2.3.12. stochastic games; 5.2.3.13. learning latent representations; 5.2.3.14. multiresolution; 5.2.3.5.1. maximum likelihood modeling; 5.2.3.5.2. maximum entropy modeling; 5.2.3.5.3. maximum a posteriori modeling; 5.2.3.5.4. mixture models; 5.2.3.5.5. latent variable models; 5.2.3.5.7. markov network models	1.1.1.4.1. support vector machines; 2.1.1.2. markov networks; 3.2.1.7.4. anomaly detection; 5.2.1.2.2. anomaly detection; 5.2.3.5.6. bayesian network models; 5.2.3.15. support vector machines	
+1	theory of computation	0.603	0.543	11.454	1.1.2. database theory; 1.1.1.1. sample complexity and generalization bounds; 1.1.1.2. boolean function learning; 1.1.1.3. unsupervised learning and clustering; 1.1.1.5. boosting; 1.1.1.6. bayesian analysis; 1.1.1.7. inductive inference; 1.1.1.8. online learning theory; 1.1.1.9. multi-agent learning; 1.1.1.10. models of learning; 1.1.1.11. query learning; 1.1.1.12. structured prediction; 1.1.1.13. reinforcement learning; 1.1.1.14. active learning; 1.1.1.15. semi-supervised learning; 1.1.1.16. markov decision processes; 1.1.1.17. regret bounds; 1.1.1.4.2. gaussian processes; 1.1.1.4.3. modelling	1.1.1.4.1. support vector machines	
+1.1.1	machine learning theory	0.603	0.543	10.851	1.1.1.1. sample complexity and generalization bounds; 1.1.1.2. boolean function learning; 1.1.1.3. unsupervised learning and clustering; 1.1.1.5. boosting; 1.1.1.6. bayesian analysis; 1.1.1.7. inductive inference; 1.1.1.8. online learning theory; 1.1.1.9. multi-agent learning; 1.1.1.10. models of learning; 1.1.1.11. query learning; 1.1.1.12. structured prediction; 1.1.1.13. reinforcement learning; 1.1.1.14. active learning; 1.1.1.15. semi-supervised learning; 1.1.1.16. markov decision processes; 1.1.1.17. regret bounds; 1.1.1.4.2. gaussian processes; 1.1.1.4.3. modelling	1.1.1.4.1. support vector machines	
+1.1.1.1	sample complexity and generalization bounds	0.0	0	0			
+1.1.1.10	models of learning	0.0	0	0			
+1.1.1.11	query learning	0.0	0	0			
+1.1.1.12	structured prediction	0.0	0	0			
+1.1.1.13	reinforcement learning	0.0	0	0.603	1.1.1.13. reinforcement learning		
+1.1.1.14	active learning	0.0	0	0			
+1.1.1.15	semi-supervised learning	0.0	0	0			
+1.1.1.16	markov decision processes	0.0	0	0			
+1.1.1.17	regret bounds	0.0	0	0			
+1.1.1.2	boolean function learning	0.0	0	0			
+1.1.1.3	unsupervised learning and clustering	0.0	0	0			
+1.1.1.4	kernel methods	0.603	0.543	1.206	1.1.1.4.2. gaussian processes; 1.1.1.4.3. modelling	1.1.1.4.1. support vector machines	
+1.1.1.4.1	support vector machines	0.603	0.543	0		1.1.1.4.1. support vector machines	
+1.1.1.4.2	gaussian processes	0.0	0	0			
+1.1.1.4.3	modelling	0.0	0	0			
+1.1.1.5	boosting	0.0	0	0			
+1.1.1.6	bayesian analysis	0.0	0	0			
+1.1.1.7	inductive inference	0.0	0	0			
+1.1.1.8	online learning theory	0.0	0	0			
+1.1.1.9	multi-agent learning	0.0	0	0			
+1.1.2	database theory	0.0	0	0.603	1.1.2. database theory		
+2	mathematics of computing	0.156	0.141	2.502	2.2. multiway data analysis; 2.1.2. probabilistic inference problems; 2.1.3. probabilistic reasoning algorithms; 2.1.4. probabilistic algorithms; 2.1.5. statistical paradigms; 2.1.6. stochastic processes; 2.1.7. nonparametric statistics; 2.1.8. distribution functions; 2.1.9. multivariate statistics; 2.1.1.1. bayesian networks; 2.1.1.3. factor graphs; 2.1.1.4. decision diagrams; 2.1.1.5. equational models; 2.1.1.6. causal networks; 2.1.1.7. stochastic differential equations; 2.1.1.8. nonparametric representations	2.1.1.2. markov networks	
+2.1	probability and statistics	0.156	0.141	2.346	2.1.2. probabilistic inference problems; 2.1.3. probabilistic reasoning algorithms; 2.1.4. probabilistic algorithms; 2.1.5. statistical paradigms; 2.1.6. stochastic processes; 2.1.7. nonparametric statistics; 2.1.8. distribution functions; 2.1.9. multivariate statistics; 2.1.1.1. bayesian networks; 2.1.1.3. factor graphs; 2.1.1.4. decision diagrams; 2.1.1.5. equational models; 2.1.1.6. causal networks; 2.1.1.7. stochastic differential equations; 2.1.1.8. nonparametric representations	2.1.1.2. markov networks	
+2.1.1	probabilistic representations	0.156	0.141	1.095	2.1.1.1. bayesian networks; 2.1.1.3. factor graphs; 2.1.1.4. decision diagrams; 2.1.1.5. equational models; 2.1.1.6. causal networks; 2.1.1.7. stochastic differential equations; 2.1.1.8. nonparametric representations	2.1.1.2. markov networks	
+2.1.1.1	bayesian networks	0.0	0	0			
+2.1.1.2	markov networks	0.156	0.141	0		2.1.1.2. markov networks	
+2.1.1.3	factor graphs	0.0	0	0			
+2.1.1.4	decision diagrams	0.0	0	0			
+2.1.1.5	equational models	0.0	0	0			
+2.1.1.6	causal networks	0.0	0	0			
+2.1.1.7	stochastic differential equations	0.0	0	0			
+2.1.1.8	nonparametric representations	0.0	0	0.156	2.1.1.8. nonparametric representations		
+2.1.2	probabilistic inference problems	0.0	0	0.156	2.1.2. probabilistic inference problems		
+2.1.3	probabilistic reasoning algorithms	0.0	0	0.156	2.1.3. probabilistic reasoning algorithms		
+2.1.4	probabilistic algorithms	0.0	0	0			
+2.1.5	statistical paradigms	0.0	0	0.156	2.1.5. statistical paradigms		
+2.1.6	stochastic processes	0.0	0	0.156	2.1.6. stochastic processes		
+2.1.7	nonparametric statistics	0.0	0	0			
+2.1.8	distribution functions	0.0	0	0			
+2.1.9	multivariate statistics	0.0	0	0			
+2.2	multiway data analysis	0.0	0	0.156	2.2. multiway data analysis		
+3	information systems	0.307	0.276	5.837	3.1. data management systems; 3.3. world wide web; 3.4. information retrieval; 3.5. internet of things; 3.2.1.1. data cleaning; 3.2.1.2. collaborative filtering; 3.2.1.3. association rules; 3.2.1.4. clustering; 3.2.1.5. nearest-neighbor search; 3.2.1.6. data stream mining; 3.2.1.8. process mining; 3.2.1.11. text mining; 3.2.1.10. data mining tools; 3.2.1.9. sequence mining; 3.2.1.12. formal concept analysis; 3.2.1.7.1. graph partitioning; 3.2.1.7.2. frequent graph mining; 3.2.1.7.3. graph based conceptual clustering; 3.2.1.7.5. critical nodes detection	3.2.1.7.4. anomaly detection	
+3.1	data management systems	0.0	0	0.307	3.1. data management systems		
+3.2	information systems applications	0.307	0.276	4.608	3.2.1.1. data cleaning; 3.2.1.2. collaborative filtering; 3.2.1.3. association rules; 3.2.1.4. clustering; 3.2.1.5. nearest-neighbor search; 3.2.1.6. data stream mining; 3.2.1.8. process mining; 3.2.1.11. text mining; 3.2.1.10. data mining tools; 3.2.1.9. sequence mining; 3.2.1.12. formal concept analysis; 3.2.1.7.1. graph partitioning; 3.2.1.7.2. frequent graph mining; 3.2.1.7.3. graph based conceptual clustering; 3.2.1.7.5. critical nodes detection	3.2.1.7.4. anomaly detection	
+3.2.1.1	data cleaning	0.0	0	0			
+3.2.1.10	data mining tools	0.0	0	0			
+3.2.1.11	text mining	0.0	0	0.307	3.2.1.11. text mining		
+3.2.1.12	formal concept analysis	0.0	0	0			
+3.2.1.2	collaborative filtering	0.0	0	0.307	3.2.1.2. collaborative filtering		
+3.2.1.3	association rules	0.0	0	0.307	3.2.1.3. association rules		
+3.2.1.4	clustering	0.0	0	0.307	3.2.1.4. clustering		
+3.2.1.5	nearest-neighbor search	0.0	0	0			
+3.2.1.6	data stream mining	0.0	0	0			
+3.2.1.7	graph mining	0.307	0.276	1.229	3.2.1.7.1. graph partitioning; 3.2.1.7.2. frequent graph mining; 3.2.1.7.3. graph based conceptual clustering; 3.2.1.7.5. critical nodes detection	3.2.1.7.4. anomaly detection	
+3.2.1.7.1	graph partitioning	0.0	0	0			
+3.2.1.7.2	frequent graph mining	0.0	0	0			
+3.2.1.7.3	graph based conceptual clustering	0.0	0	0			
+3.2.1.7.4	anomaly detection	0.307	0.276	0		3.2.1.7.4. anomaly detection	
+3.2.1.7.5	critical nodes detection	0.0	0	0			
+3.2.1.8	process mining	0.0	0	0			
+3.2.1.9	sequence mining	0.0	0	0.307	3.2.1.9. sequence mining		
+3.3	world wide web	0.0	0	0.307	3.3. world wide web		
+3.4	information retrieval	0.0	0	0.307	3.4. information retrieval		
+3.5	internet of things	0.0	0	0.307	3.5. internet of things		
+4	human-centered computing	0.0	0	1.0	4. human-centered computing		
+5	computing methodologies	0.72	1.039	16.291	5.1. artificial intelligence; 5.2.2. learning settings; 5.2.4. machine learning algorithms; 5.2.5. cross-validation; 5.2.6. deep learning; 5.2.1.1. supervised learning; 5.2.1.3. reinforcement learning; 5.2.1.4. multi-task learning; 5.2.1.2.1. cluster analysis; 5.2.1.2.3. mixture modeling; 5.2.1.2.4. topic modeling; 5.2.1.2.5. source separation; 5.2.1.2.6. motif discovery; 5.2.1.2.7. dimensionality reduction and manifold learning; 5.2.3.1. classification and regression trees; 5.2.3.2. kernel methods; 5.2.3.3. neural networks; 5.2.3.4. logical and relational learning; 5.2.3.6. learning linear models; 5.2.3.7. factorization methods; 5.2.3.8. rule learning; 5.2.3.9. instance-based learning; 5.2.3.10. markov decision processes; 5.2.3.11. partially-observable markov decision processes; 5.2.3.12. stochastic games; 5.2.3.13. learning latent representations; 5.2.3.14. multiresolution; 5.2.3.5.1. maximum likelihood modeling; 5.2.3.5.2. maximum entropy modeling; 5.2.3.5.3. maximum a posteriori modeling; 5.2.3.5.4. mixture models; 5.2.3.5.5. latent variable models; 5.2.3.5.7. markov network models	5.2.1.2.2. anomaly detection; 5.2.3.5.6. bayesian network models; 5.2.3.15. support vector machines	
+5.1	artificial intelligence	0.0	0	0.72	5.1. artificial intelligence		
+5.2	machine learning	0.72	1.039	15.572	5.2.2. learning settings; 5.2.4. machine learning algorithms; 5.2.5. cross-validation; 5.2.6. deep learning; 5.2.1.1. supervised learning; 5.2.1.3. reinforcement learning; 5.2.1.4. multi-task learning; 5.2.1.2.1. cluster analysis; 5.2.1.2.3. mixture modeling; 5.2.1.2.4. topic modeling; 5.2.1.2.5. source separation; 5.2.1.2.6. motif discovery; 5.2.1.2.7. dimensionality reduction and manifold learning; 5.2.3.1. classification and regression trees; 5.2.3.2. kernel methods; 5.2.3.3. neural networks; 5.2.3.4. logical and relational learning; 5.2.3.6. learning linear models; 5.2.3.7. factorization methods; 5.2.3.8. rule learning; 5.2.3.9. instance-based learning; 5.2.3.10. markov decision processes; 5.2.3.11. partially-observable markov decision processes; 5.2.3.12. stochastic games; 5.2.3.13. learning latent representations; 5.2.3.14. multiresolution; 5.2.3.5.1. maximum likelihood modeling; 5.2.3.5.2. maximum entropy modeling; 5.2.3.5.3. maximum a posteriori modeling; 5.2.3.5.4. mixture models; 5.2.3.5.5. latent variable models; 5.2.3.5.7. markov network models	5.2.1.2.2. anomaly detection; 5.2.3.5.6. bayesian network models; 5.2.3.15. support vector machines	
+5.2.1	learning paradigms	0.307	0.276	2.765	5.2.1.1. supervised learning; 5.2.1.3. reinforcement learning; 5.2.1.4. multi-task learning; 5.2.1.2.1. cluster analysis; 5.2.1.2.3. mixture modeling; 5.2.1.2.4. topic modeling; 5.2.1.2.5. source separation; 5.2.1.2.6. motif discovery; 5.2.1.2.7. dimensionality reduction and manifold learning	5.2.1.2.2. anomaly detection	
+5.2.1.1	supervised learning	0.0	0	0.307	5.2.1.1. supervised learning		
+5.2.1.2	unsupervised learning	0.307	0.276	1.843	5.2.1.2.1. cluster analysis; 5.2.1.2.3. mixture modeling; 5.2.1.2.4. topic modeling; 5.2.1.2.5. source separation; 5.2.1.2.6. motif discovery; 5.2.1.2.7. dimensionality reduction and manifold learning	5.2.1.2.2. anomaly detection	
+5.2.1.2.1	cluster analysis	0.0	0	0			
+5.2.1.2.2	anomaly detection	0.307	0.276	0		5.2.1.2.2. anomaly detection	
+5.2.1.2.3	mixture modeling	0.0	0	0			
+5.2.1.2.4	topic modeling	0.0	0	0			
+5.2.1.2.5	source separation	0.0	0	0			
+5.2.1.2.6	motif discovery	0.0	0	0			
+5.2.1.2.7	dimensionality reduction and manifold learning	0.0	0	0.307	5.2.1.2.7. dimensionality reduction and manifold learning		
+5.2.1.3	reinforcement learning	0.0	0	0.307	5.2.1.3. reinforcement learning		
+5.2.1.4	multi-task learning	0.0	0	0.307	5.2.1.4. multi-task learning		
+5.2.2	learning settings	0.0	0	0.72	5.2.2. learning settings		
+5.2.3	machine learning approaches	0.651	0.763	9.928	5.2.3.1. classification and regression trees; 5.2.3.2. kernel methods; 5.2.3.3. neural networks; 5.2.3.4. logical and relational learning; 5.2.3.6. learning linear models; 5.2.3.7. factorization methods; 5.2.3.8. rule learning; 5.2.3.9. instance-based learning; 5.2.3.10. markov decision processes; 5.2.3.11. partially-observable markov decision processes; 5.2.3.12. stochastic games; 5.2.3.13. learning latent representations; 5.2.3.14. multiresolution; 5.2.3.5.1. maximum likelihood modeling; 5.2.3.5.2. maximum entropy modeling; 5.2.3.5.3. maximum a posteriori modeling; 5.2.3.5.4. mixture models; 5.2.3.5.5. latent variable models; 5.2.3.5.7. markov network models	5.2.3.5.6. bayesian network models; 5.2.3.15. support vector machines	
+5.2.3.1	classification and regression trees	0.0	0	0.651	5.2.3.1. classification and regression trees		
+5.2.3.10	markov decision processes	0.0	0	0			
+5.2.3.11	partially-observable markov decision processes	0.0	0	0			
+5.2.3.12	stochastic games	0.0	0	0			
+5.2.3.13	learning latent representations	0.0	0	0.651	5.2.3.13. learning latent representations		
+5.2.3.14	multiresolution	0.0	0	0			
+5.2.3.15	support vector machines	0.603	0.543	0		5.2.3.15. support vector machines	
+5.2.3.2	kernel methods	0.0	0	0.651	5.2.3.2. kernel methods		
+5.2.3.3	neural networks	0.0	0	0.651	5.2.3.3. neural networks		
+5.2.3.4	logical and relational learning	0.0	0	0.651	5.2.3.4. logical and relational learning		
+5.2.3.5	learning in probabilistic graphical models	0.245	0.22	1.47	5.2.3.5.1. maximum likelihood modeling; 5.2.3.5.2. maximum entropy modeling; 5.2.3.5.3. maximum a posteriori modeling; 5.2.3.5.4. mixture models; 5.2.3.5.5. latent variable models; 5.2.3.5.7. markov network models	5.2.3.5.6. bayesian network models	
+5.2.3.5.1	maximum likelihood modeling	0.0	0	0			
+5.2.3.5.2	maximum entropy modeling	0.0	0	0			
+5.2.3.5.3	maximum a posteriori modeling	0.0	0	0			
+5.2.3.5.4	mixture models	0.0	0	0			
+5.2.3.5.5	latent variable models	0.0	0	0			
+5.2.3.5.6	bayesian network models	0.245	0.22	0		5.2.3.5.6. bayesian network models	
+5.2.3.5.7	markov network models	0.0	0	0			
+5.2.3.6	learning linear models	0.0	0	0.651	5.2.3.6. learning linear models		
+5.2.3.7	factorization methods	0.0	0	0.651	5.2.3.7. factorization methods		
+5.2.3.8	rule learning	0.0	0	0.651	5.2.3.8. rule learning		
+5.2.3.9	instance-based learning	0.0	0	0			
+5.2.4	machine learning algorithms	0.0	0	0.72	5.2.4. machine learning algorithms		
+5.2.5	cross-validation	0.0	0	0			
+5.2.6	deep learning	0.0	0	0.72	5.2.6. deep learning		

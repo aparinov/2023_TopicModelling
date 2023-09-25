@@ -1,0 +1,96 @@
+index	name	u	p	V	G	H	L
+	root	1.0	2.408	28.923	2. mathematics of computing; 4. human-centered computing; 1.1.2. database theory; 1.1.1.1. sample complexity and generalization bounds; 1.1.1.2. boolean function learning; 1.1.1.3. unsupervised learning and clustering; 1.1.1.4. kernel methods; 1.1.1.5. boosting; 1.1.1.6. bayesian analysis; 1.1.1.7. inductive inference; 1.1.1.8. online learning theory; 1.1.1.9. multi-agent learning; 1.1.1.10. models of learning; 1.1.1.11. query learning; 1.1.1.12. structured prediction; 1.1.1.14. active learning; 1.1.1.15. semi-supervised learning; 1.1.1.16. markov decision processes; 1.1.1.17. regret bounds; 1.1.1.13.1. sequential decision making; 1.1.1.13.5. adversarial learning; 3.2. information systems applications; 3.3. world wide web; 3.5. internet of things; 3.1.1. database design and models; 3.1.2. data structures; 3.1.4. query languages; 3.1.5. information integration; 3.1.3.1. dbms engine architectures; 3.1.3.2. database query processing; 3.1.3.3. database transaction processing; 3.1.3.4. record and buffer management; 3.1.3.5. parallel and distributed dbmss; 3.1.3.6. triggers and rules; 3.1.3.7. database views; 3.1.3.8. integrity checking; 3.1.3.10. main memory engines; 3.1.3.11. online analytical processing engines; 3.1.3.12. stream management; 3.1.3.13. big data; 3.1.3.9.1. distributed data locking; 3.1.3.9.2. deadlocks; 3.4.1. document representation; 3.4.2. information retrieval query processing; 3.4.3. users and interactive retrieval; 3.4.5. retrieval tasks and goals; 3.4.6. evaluation of retrieval results; 3.4.7. specialized information retrieval; 3.4.4.1. rank aggregation; 3.4.4.2. probabilistic retrieval models; 3.4.4.3. language models; 3.4.4.4. similarity measures; 3.4.4.6. combination fusion and federated search; 3.4.4.7. information retrieval diversity; 3.4.4.8. top-k retrieval in databases; 3.4.4.9. novelty in information retrieval; 5.1. artificial intelligence; 5.2.2. learning settings; 5.2.3. machine learning approaches; 5.2.4. machine learning algorithms; 5.2.5. cross-validation; 5.2.6. deep learning; 5.2.1.2. unsupervised learning; 5.2.1.4. multi-task learning; 5.2.1.1.1. ranking; 5.2.1.1.3. supervised learning by classification; 5.2.1.1.4. supervised learning by regression; 5.2.1.1.5. structured outputs; 5.2.1.1.6. cost-sensitive learning	1.1.1.13. reinforcement learning; 3.1.3.9.3. distributed database recovery; 3.4.4.5. learning to rank; 5.2.1.1.2. learning to rank; 5.2.1.3. reinforcement learning	1.1.1.13.1. sequential decision making; 1.1.1.13.5. adversarial learning; 5.2.1.3.1. sequential decision making; 5.2.1.3.5. adversarial learning
+1	theory of computation	0.659	0.922	12.515	1.1.2. database theory; 1.1.1.1. sample complexity and generalization bounds; 1.1.1.2. boolean function learning; 1.1.1.3. unsupervised learning and clustering; 1.1.1.4. kernel methods; 1.1.1.5. boosting; 1.1.1.6. bayesian analysis; 1.1.1.7. inductive inference; 1.1.1.8. online learning theory; 1.1.1.9. multi-agent learning; 1.1.1.10. models of learning; 1.1.1.11. query learning; 1.1.1.12. structured prediction; 1.1.1.14. active learning; 1.1.1.15. semi-supervised learning; 1.1.1.16. markov decision processes; 1.1.1.17. regret bounds; 1.1.1.13.1. sequential decision making; 1.1.1.13.5. adversarial learning	1.1.1.13. reinforcement learning	1.1.1.13.1. sequential decision making; 1.1.1.13.5. adversarial learning
+1.1.1	machine learning theory	0.659	0.922	11.856	1.1.1.1. sample complexity and generalization bounds; 1.1.1.2. boolean function learning; 1.1.1.3. unsupervised learning and clustering; 1.1.1.4. kernel methods; 1.1.1.5. boosting; 1.1.1.6. bayesian analysis; 1.1.1.7. inductive inference; 1.1.1.8. online learning theory; 1.1.1.9. multi-agent learning; 1.1.1.10. models of learning; 1.1.1.11. query learning; 1.1.1.12. structured prediction; 1.1.1.14. active learning; 1.1.1.15. semi-supervised learning; 1.1.1.16. markov decision processes; 1.1.1.17. regret bounds; 1.1.1.13.1. sequential decision making; 1.1.1.13.5. adversarial learning	1.1.1.13. reinforcement learning	1.1.1.13.1. sequential decision making; 1.1.1.13.5. adversarial learning
+1.1.1.1	sample complexity and generalization bounds	0.0	0	0			
+1.1.1.10	models of learning	0.0	0	0			
+1.1.1.11	query learning	0.0	0	0			
+1.1.1.12	structured prediction	0.0	0	0			
+1.1.1.13	reinforcement learning	0.659	0.922	1.317	1.1.1.13.1. sequential decision making; 1.1.1.13.5. adversarial learning	1.1.1.13. reinforcement learning	1.1.1.13.1. sequential decision making; 1.1.1.13.5. adversarial learning
+1.1.1.13.1	sequential decision making	0.0	0	0			
+1.1.1.13.2	inverse reinforcement learning	0.325	0.293	0		1.1.1.13.2. inverse reinforcement learning	
+1.1.1.13.3	apprenticeship learning	0.431	0.388	0		1.1.1.13.3. apprenticeship learning	
+1.1.1.13.4	multi-agent reinforcement learning	0.377	0.339	0		1.1.1.13.4. multi-agent reinforcement learning	
+1.1.1.13.5	adversarial learning	0.0	0	0			
+1.1.1.14	active learning	0.0	0	0			
+1.1.1.15	semi-supervised learning	0.0	0	0			
+1.1.1.16	markov decision processes	0.0	0	0			
+1.1.1.17	regret bounds	0.0	0	0			
+1.1.1.2	boolean function learning	0.0	0	0			
+1.1.1.3	unsupervised learning and clustering	0.0	0	0			
+1.1.1.4	kernel methods	0.0	0	0.659	1.1.1.4. kernel methods		
+1.1.1.5	boosting	0.0	0	0			
+1.1.1.6	bayesian analysis	0.0	0	0			
+1.1.1.7	inductive inference	0.0	0	0			
+1.1.1.8	online learning theory	0.0	0	0			
+1.1.1.9	multi-agent learning	0.0	0	0			
+1.1.2	database theory	0.0	0	0.659	1.1.2. database theory		
+2	mathematics of computing	0.0	0	1.0	2. mathematics of computing		
+3	information systems	0.308	0.39	7.951	3.2. information systems applications; 3.3. world wide web; 3.5. internet of things; 3.1.1. database design and models; 3.1.2. data structures; 3.1.4. query languages; 3.1.5. information integration; 3.1.3.1. dbms engine architectures; 3.1.3.2. database query processing; 3.1.3.3. database transaction processing; 3.1.3.4. record and buffer management; 3.1.3.5. parallel and distributed dbmss; 3.1.3.6. triggers and rules; 3.1.3.7. database views; 3.1.3.8. integrity checking; 3.1.3.10. main memory engines; 3.1.3.11. online analytical processing engines; 3.1.3.12. stream management; 3.1.3.13. big data; 3.1.3.9.1. distributed data locking; 3.1.3.9.2. deadlocks; 3.4.1. document representation; 3.4.2. information retrieval query processing; 3.4.3. users and interactive retrieval; 3.4.5. retrieval tasks and goals; 3.4.6. evaluation of retrieval results; 3.4.7. specialized information retrieval; 3.4.4.1. rank aggregation; 3.4.4.2. probabilistic retrieval models; 3.4.4.3. language models; 3.4.4.4. similarity measures; 3.4.4.6. combination fusion and federated search; 3.4.4.7. information retrieval diversity; 3.4.4.8. top-k retrieval in databases; 3.4.4.9. novelty in information retrieval	3.1.3.9.3. distributed database recovery; 3.4.4.5. learning to rank	
+3.1	data management systems	0.24	0.216	4.321	3.1.1. database design and models; 3.1.2. data structures; 3.1.4. query languages; 3.1.5. information integration; 3.1.3.1. dbms engine architectures; 3.1.3.2. database query processing; 3.1.3.3. database transaction processing; 3.1.3.4. record and buffer management; 3.1.3.5. parallel and distributed dbmss; 3.1.3.6. triggers and rules; 3.1.3.7. database views; 3.1.3.8. integrity checking; 3.1.3.10. main memory engines; 3.1.3.11. online analytical processing engines; 3.1.3.12. stream management; 3.1.3.13. big data; 3.1.3.9.1. distributed data locking; 3.1.3.9.2. deadlocks	3.1.3.9.3. distributed database recovery	
+3.1.1	database design and models	0.0	0	0.24	3.1.1. database design and models		
+3.1.2	data structures	0.0	0	0.24	3.1.2. data structures		
+3.1.3	database management system engines	0.24	0.216	3.361	3.1.3.1. dbms engine architectures; 3.1.3.2. database query processing; 3.1.3.3. database transaction processing; 3.1.3.4. record and buffer management; 3.1.3.5. parallel and distributed dbmss; 3.1.3.6. triggers and rules; 3.1.3.7. database views; 3.1.3.8. integrity checking; 3.1.3.10. main memory engines; 3.1.3.11. online analytical processing engines; 3.1.3.12. stream management; 3.1.3.13. big data; 3.1.3.9.1. distributed data locking; 3.1.3.9.2. deadlocks	3.1.3.9.3. distributed database recovery	
+3.1.3.1	dbms engine architectures	0.0	0	0			
+3.1.3.10	main memory engines	0.0	0	0			
+3.1.3.11	online analytical processing engines	0.0	0	0			
+3.1.3.12	stream management	0.0	0	0			
+3.1.3.13	big data	0.0	0	0.24	3.1.3.13. big data		
+3.1.3.2	database query processing	0.0	0	0.24	3.1.3.2. database query processing		
+3.1.3.3	database transaction processing	0.0	0	0.24	3.1.3.3. database transaction processing		
+3.1.3.4	record and buffer management	0.0	0	0			
+3.1.3.5	parallel and distributed dbmss	0.0	0	0.24	3.1.3.5. parallel and distributed dbmss		
+3.1.3.6	triggers and rules	0.0	0	0			
+3.1.3.7	database views	0.0	0	0			
+3.1.3.8	integrity checking	0.0	0	0			
+3.1.3.9	distributed database transactions	0.24	0.216	0.48	3.1.3.9.1. distributed data locking; 3.1.3.9.2. deadlocks	3.1.3.9.3. distributed database recovery	
+3.1.3.9.1	distributed data locking	0.0	0	0			
+3.1.3.9.2	deadlocks	0.0	0	0			
+3.1.3.9.3	distributed database recovery	0.24	0.216	0		3.1.3.9.3. distributed database recovery	
+3.1.4	query languages	0.0	0	0.24	3.1.4. query languages		
+3.1.5	information integration	0.0	0	0.24	3.1.5. information integration		
+3.2	information systems applications	0.0	0	0.308	3.2. information systems applications		
+3.3	world wide web	0.0	0	0.308	3.3. world wide web		
+3.4	information retrieval	0.193	0.174	2.705	3.4.1. document representation; 3.4.2. information retrieval query processing; 3.4.3. users and interactive retrieval; 3.4.5. retrieval tasks and goals; 3.4.6. evaluation of retrieval results; 3.4.7. specialized information retrieval; 3.4.4.1. rank aggregation; 3.4.4.2. probabilistic retrieval models; 3.4.4.3. language models; 3.4.4.4. similarity measures; 3.4.4.6. combination fusion and federated search; 3.4.4.7. information retrieval diversity; 3.4.4.8. top-k retrieval in databases; 3.4.4.9. novelty in information retrieval	3.4.4.5. learning to rank	
+3.4.1	document representation	0.0	0	0.193	3.4.1. document representation		
+3.4.2	information retrieval query processing	0.0	0	0.193	3.4.2. information retrieval query processing		
+3.4.3	users and interactive retrieval	0.0	0	0.193	3.4.3. users and interactive retrieval		
+3.4.4	retrieval models and ranking	0.193	0.174	1.546	3.4.4.1. rank aggregation; 3.4.4.2. probabilistic retrieval models; 3.4.4.3. language models; 3.4.4.4. similarity measures; 3.4.4.6. combination fusion and federated search; 3.4.4.7. information retrieval diversity; 3.4.4.8. top-k retrieval in databases; 3.4.4.9. novelty in information retrieval	3.4.4.5. learning to rank	
+3.4.4.1	rank aggregation	0.0	0	0			
+3.4.4.2	probabilistic retrieval models	0.0	0	0			
+3.4.4.3	language models	0.0	0	0			
+3.4.4.4	similarity measures	0.0	0	0			
+3.4.4.5	learning to rank	0.193	0.174	0		3.4.4.5. learning to rank	
+3.4.4.6	combination fusion and federated search	0.0	0	0			
+3.4.4.7	information retrieval diversity	0.0	0	0			
+3.4.4.8	top-k retrieval in databases	0.0	0	0			
+3.4.4.9	novelty in information retrieval	0.0	0	0			
+3.4.5	retrieval tasks and goals	0.0	0	0.193	3.4.5. retrieval tasks and goals		
+3.4.6	evaluation of retrieval results	0.0	0	0.193	3.4.6. evaluation of retrieval results		
+3.4.7	specialized information retrieval	0.0	0	0.193	3.4.7. specialized information retrieval		
+3.5	internet of things	0.0	0	0.308	3.5. internet of things		
+4	human-centered computing	0.0	0	1.0	4. human-centered computing		
+5	computing methodologies	0.686	1.096	7.775	5.1. artificial intelligence; 5.2.2. learning settings; 5.2.3. machine learning approaches; 5.2.4. machine learning algorithms; 5.2.5. cross-validation; 5.2.6. deep learning; 5.2.1.2. unsupervised learning; 5.2.1.4. multi-task learning; 5.2.1.1.1. ranking; 5.2.1.1.3. supervised learning by classification; 5.2.1.1.4. supervised learning by regression; 5.2.1.1.5. structured outputs; 5.2.1.1.6. cost-sensitive learning; 5.2.1.3.1. sequential decision making; 5.2.1.3.5. adversarial learning	5.2.1.1.2. learning to rank; 5.2.1.3. reinforcement learning	5.2.1.3.1. sequential decision making; 5.2.1.3.5. adversarial learning
+5.1	artificial intelligence	0.0	0	0.686	5.1. artificial intelligence		
+5.2	machine learning	0.686	1.096	7.088	5.2.2. learning settings; 5.2.3. machine learning approaches; 5.2.4. machine learning algorithms; 5.2.5. cross-validation; 5.2.6. deep learning; 5.2.1.2. unsupervised learning; 5.2.1.4. multi-task learning; 5.2.1.1.1. ranking; 5.2.1.1.3. supervised learning by classification; 5.2.1.1.4. supervised learning by regression; 5.2.1.1.5. structured outputs; 5.2.1.1.6. cost-sensitive learning; 5.2.1.3.1. sequential decision making; 5.2.1.3.5. adversarial learning	5.2.1.1.2. learning to rank; 5.2.1.3. reinforcement learning	5.2.1.3.1. sequential decision making; 5.2.1.3.5. adversarial learning
+5.2.1	learning paradigms	0.686	1.096	3.656	5.2.1.2. unsupervised learning; 5.2.1.4. multi-task learning; 5.2.1.1.1. ranking; 5.2.1.1.3. supervised learning by classification; 5.2.1.1.4. supervised learning by regression; 5.2.1.1.5. structured outputs; 5.2.1.1.6. cost-sensitive learning; 5.2.1.3.1. sequential decision making; 5.2.1.3.5. adversarial learning	5.2.1.1.2. learning to rank; 5.2.1.3. reinforcement learning	5.2.1.3.1. sequential decision making; 5.2.1.3.5. adversarial learning
+5.2.1.1	supervised learning	0.193	0.174	0.966	5.2.1.1.1. ranking; 5.2.1.1.3. supervised learning by classification; 5.2.1.1.4. supervised learning by regression; 5.2.1.1.5. structured outputs; 5.2.1.1.6. cost-sensitive learning	5.2.1.1.2. learning to rank	
+5.2.1.1.1	ranking	0.0	0	0			
+5.2.1.1.2	learning to rank	0.193	0.174	0		5.2.1.1.2. learning to rank	
+5.2.1.1.3	supervised learning by classification	0.0	0	0			
+5.2.1.1.4	supervised learning by regression	0.0	0	0			
+5.2.1.1.5	structured outputs	0.0	0	0			
+5.2.1.1.6	cost-sensitive learning	0.0	0	0			
+5.2.1.2	unsupervised learning	0.0	0	0.686	5.2.1.2. unsupervised learning		
+5.2.1.3	reinforcement learning	0.659	0.922	1.317	5.2.1.3.1. sequential decision making; 5.2.1.3.5. adversarial learning	5.2.1.3. reinforcement learning	5.2.1.3.1. sequential decision making; 5.2.1.3.5. adversarial learning
+5.2.1.3.1	sequential decision making	0.0	0	0			
+5.2.1.3.2	inverse reinforcement learning	0.325	0.293	0		5.2.1.3.2. inverse reinforcement learning	
+5.2.1.3.3	apprenticeship learning	0.431	0.388	0		5.2.1.3.3. apprenticeship learning	
+5.2.1.3.4	multi-agent reinforcement learning	0.377	0.339	0		5.2.1.3.4. multi-agent reinforcement learning	
+5.2.1.3.5	adversarial learning	0.0	0	0			
+5.2.1.4	multi-task learning	0.0	0	0.686	5.2.1.4. multi-task learning		
+5.2.2	learning settings	0.0	0	0.686	5.2.2. learning settings		
+5.2.3	machine learning approaches	0.0	0	0.686	5.2.3. machine learning approaches		
+5.2.4	machine learning algorithms	0.0	0	0.686	5.2.4. machine learning algorithms		
+5.2.5	cross-validation	0.0	0	0			
+5.2.6	deep learning	0.0	0	0.686	5.2.6. deep learning		

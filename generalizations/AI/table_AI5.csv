@@ -1,0 +1,52 @@
+index	name	u	p	V	G	H	L
+	root	1.0	1.383	22.807	2. mathematics of computing; 3. information systems; 4. human-centered computing; 1.1.2. database theory; 1.1.1.1. sample complexity and generalization bounds; 1.1.1.2. boolean function learning; 1.1.1.3. unsupervised learning and clustering; 1.1.1.4. kernel methods; 1.1.1.5. boosting; 1.1.1.6. bayesian analysis; 1.1.1.7. inductive inference; 1.1.1.9. multi-agent learning; 1.1.1.10. models of learning; 1.1.1.11. query learning; 1.1.1.12. structured prediction; 1.1.1.13. reinforcement learning; 1.1.1.14. active learning; 1.1.1.15. semi-supervised learning; 1.1.1.16. markov decision processes; 1.1.1.17. regret bounds; 5.1. artificial intelligence; 5.2.3. machine learning approaches; 5.2.4. machine learning algorithms; 5.2.5. cross-validation; 5.2.6. deep learning; 5.2.1.1. supervised learning; 5.2.1.4. multi-task learning; 5.2.1.2.1. cluster analysis; 5.2.1.2.2. anomaly detection; 5.2.1.2.4. topic modeling; 5.2.1.2.5. source separation; 5.2.1.2.6. motif discovery; 5.2.1.2.7. dimensionality reduction and manifold learning; 5.2.2.1. batch learning; 5.2.2.2. online learning settings; 5.2.2.3. learning from demonstrations; 5.2.2.4. learning from critiques; 5.2.2.5. learning from implicit feedback; 5.2.2.7. semi-supervised learning settings	1.1.1.8. online learning theory; 5.2.1.2.3. mixture modeling; 5.2.2.6. active learning settings	
+1	theory of computation	0.554	0.499	9.419	1.1.2. database theory; 1.1.1.1. sample complexity and generalization bounds; 1.1.1.2. boolean function learning; 1.1.1.3. unsupervised learning and clustering; 1.1.1.4. kernel methods; 1.1.1.5. boosting; 1.1.1.6. bayesian analysis; 1.1.1.7. inductive inference; 1.1.1.9. multi-agent learning; 1.1.1.10. models of learning; 1.1.1.11. query learning; 1.1.1.12. structured prediction; 1.1.1.13. reinforcement learning; 1.1.1.14. active learning; 1.1.1.15. semi-supervised learning; 1.1.1.16. markov decision processes; 1.1.1.17. regret bounds	1.1.1.8. online learning theory	
+1.1.1	machine learning theory	0.554	0.499	8.865	1.1.1.1. sample complexity and generalization bounds; 1.1.1.2. boolean function learning; 1.1.1.3. unsupervised learning and clustering; 1.1.1.4. kernel methods; 1.1.1.5. boosting; 1.1.1.6. bayesian analysis; 1.1.1.7. inductive inference; 1.1.1.9. multi-agent learning; 1.1.1.10. models of learning; 1.1.1.11. query learning; 1.1.1.12. structured prediction; 1.1.1.13. reinforcement learning; 1.1.1.14. active learning; 1.1.1.15. semi-supervised learning; 1.1.1.16. markov decision processes; 1.1.1.17. regret bounds	1.1.1.8. online learning theory	
+1.1.1.1	sample complexity and generalization bounds	0.0	0	0			
+1.1.1.10	models of learning	0.0	0	0			
+1.1.1.11	query learning	0.0	0	0			
+1.1.1.12	structured prediction	0.0	0	0			
+1.1.1.13	reinforcement learning	0.0	0	0.554	1.1.1.13. reinforcement learning		
+1.1.1.14	active learning	0.0	0	0			
+1.1.1.15	semi-supervised learning	0.0	0	0			
+1.1.1.16	markov decision processes	0.0	0	0			
+1.1.1.17	regret bounds	0.0	0	0			
+1.1.1.2	boolean function learning	0.0	0	0			
+1.1.1.3	unsupervised learning and clustering	0.0	0	0			
+1.1.1.4	kernel methods	0.0	0	0.554	1.1.1.4. kernel methods		
+1.1.1.5	boosting	0.0	0	0			
+1.1.1.6	bayesian analysis	0.0	0	0			
+1.1.1.7	inductive inference	0.0	0	0			
+1.1.1.8	online learning theory	0.554	0.499	0		1.1.1.8. online learning theory	
+1.1.1.9	multi-agent learning	0.0	0	0			
+1.1.2	database theory	0.0	0	0.554	1.1.2. database theory		
+2	mathematics of computing	0.0	0	1.0	2. mathematics of computing		
+3	information systems	0.0	0	1.0	3. information systems		
+4	human-centered computing	0.0	0	1.0	4. human-centered computing		
+5	computing methodologies	0.832	0.884	10.554	5.1. artificial intelligence; 5.2.3. machine learning approaches; 5.2.4. machine learning algorithms; 5.2.5. cross-validation; 5.2.6. deep learning; 5.2.1.1. supervised learning; 5.2.1.3. reinforcement learning; 5.2.1.4. multi-task learning; 5.2.1.2.1. cluster analysis; 5.2.1.2.2. anomaly detection; 5.2.1.2.4. topic modeling; 5.2.1.2.5. source separation; 5.2.1.2.6. motif discovery; 5.2.1.2.7. dimensionality reduction and manifold learning; 5.2.2.1. batch learning; 5.2.2.2. online learning settings; 5.2.2.3. learning from demonstrations; 5.2.2.4. learning from critiques; 5.2.2.5. learning from implicit feedback; 5.2.2.7. semi-supervised learning settings	5.2.1.2.3. mixture modeling; 5.2.2.6. active learning settings	
+5.1	artificial intelligence	0.0	0	0.832	5.1. artificial intelligence		
+5.2	machine learning	0.832	0.884	9.722	5.2.3. machine learning approaches; 5.2.4. machine learning algorithms; 5.2.5. cross-validation; 5.2.6. deep learning; 5.2.1.1. supervised learning; 5.2.1.3. reinforcement learning; 5.2.1.4. multi-task learning; 5.2.1.2.1. cluster analysis; 5.2.1.2.2. anomaly detection; 5.2.1.2.4. topic modeling; 5.2.1.2.5. source separation; 5.2.1.2.6. motif discovery; 5.2.1.2.7. dimensionality reduction and manifold learning; 5.2.2.1. batch learning; 5.2.2.2. online learning settings; 5.2.2.3. learning from demonstrations; 5.2.2.4. learning from critiques; 5.2.2.5. learning from implicit feedback; 5.2.2.7. semi-supervised learning settings	5.2.1.2.3. mixture modeling; 5.2.2.6. active learning settings	
+5.2.1	learning paradigms	0.166	0.15	1.498	5.2.1.1. supervised learning; 5.2.1.3. reinforcement learning; 5.2.1.4. multi-task learning; 5.2.1.2.1. cluster analysis; 5.2.1.2.2. anomaly detection; 5.2.1.2.4. topic modeling; 5.2.1.2.5. source separation; 5.2.1.2.6. motif discovery; 5.2.1.2.7. dimensionality reduction and manifold learning	5.2.1.2.3. mixture modeling	
+5.2.1.1	supervised learning	0.0	0	0.166	5.2.1.1. supervised learning		
+5.2.1.2	unsupervised learning	0.166	0.15	0.998	5.2.1.2.1. cluster analysis; 5.2.1.2.2. anomaly detection; 5.2.1.2.4. topic modeling; 5.2.1.2.5. source separation; 5.2.1.2.6. motif discovery; 5.2.1.2.7. dimensionality reduction and manifold learning	5.2.1.2.3. mixture modeling	
+5.2.1.2.1	cluster analysis	0.0	0	0			
+5.2.1.2.2	anomaly detection	0.0	0	0			
+5.2.1.2.3	mixture modeling	0.166	0.15	0		5.2.1.2.3. mixture modeling	
+5.2.1.2.4	topic modeling	0.0	0	0			
+5.2.1.2.5	source separation	0.0	0	0			
+5.2.1.2.6	motif discovery	0.0	0	0			
+5.2.1.2.7	dimensionality reduction and manifold learning	0.0	0	0.166	5.2.1.2.7. dimensionality reduction and manifold learning		
+5.2.1.3	reinforcement learning	0.0	0	0.166	5.2.1.3. reinforcement learning		
+5.2.1.4	multi-task learning	0.0	0	0.166	5.2.1.4. multi-task learning		
+5.2.2	learning settings	0.816	0.734	4.894	5.2.2.1. batch learning; 5.2.2.2. online learning settings; 5.2.2.3. learning from demonstrations; 5.2.2.4. learning from critiques; 5.2.2.5. learning from implicit feedback; 5.2.2.7. semi-supervised learning settings	5.2.2.6. active learning settings	
+5.2.2.1	batch learning	0.0	0	0			
+5.2.2.2	online learning settings	0.0	0	0			
+5.2.2.3	learning from demonstrations	0.0	0	0			
+5.2.2.4	learning from critiques	0.0	0	0			
+5.2.2.5	learning from implicit feedback	0.0	0	0			
+5.2.2.6	active learning settings	0.816	0.734	0		5.2.2.6. active learning settings	
+5.2.2.7	semi-supervised learning settings	0.0	0	0.816	5.2.2.7. semi-supervised learning settings		
+5.2.3	machine learning approaches	0.0	0	0.832	5.2.3. machine learning approaches		
+5.2.4	machine learning algorithms	0.0	0	0.832	5.2.4. machine learning algorithms		
+5.2.5	cross-validation	0.0	0	0			
+5.2.6	deep learning	0.0	0	0.832	5.2.6. deep learning		

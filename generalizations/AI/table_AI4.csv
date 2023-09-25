@@ -1,0 +1,94 @@
+index	name	u	p	V	G	H	L
+	root	1.0	2.478	34.012	2. mathematics of computing; 4. human-centered computing; 1.1.1.1. sample complexity and generalization bounds; 1.1.1.2. boolean function learning; 1.1.1.3. unsupervised learning and clustering; 1.1.1.6. bayesian analysis; 1.1.1.7. inductive inference; 1.1.1.8. online learning theory; 1.1.1.9. multi-agent learning; 1.1.1.10. models of learning; 1.1.1.11. query learning; 1.1.1.12. structured prediction; 1.1.1.13. reinforcement learning; 1.1.1.14. active learning; 1.1.1.15. semi-supervised learning; 1.1.1.17. regret bounds; 1.1.1.4.2. gaussian processes; 1.1.1.4.3. modelling; 1.1.2.2. data provenance; 1.1.2.3. data modeling; 1.1.2.4. database query languages; 1.1.2.5. database constraints theory; 1.1.2.6. database interoperability; 1.1.2.7. data structures and algorithms for data management; 1.1.2.8. database query processing and optimization; 1.1.2.9. data integration; 1.1.2.10. logic and databases; 1.1.2.11. theory of database privacy and security; 1.1.2.12.  inconsistent; 3.2. information systems applications; 3.3. world wide web; 3.4. information retrieval; 3.5. internet of things; 3.1.1. database design and models; 3.1.2. data structures; 3.1.3. database management system engines; 3.1.4. query languages; 3.1.5.1. deduplication; 3.1.5.2. extraction transformation and loading; 3.1.5.4. data cleaning; 3.1.5.5. wrappers; 3.1.5.6. mediators and data integration; 3.1.5.7. entity resolution; 3.1.5.8. data warehouses; 3.1.5.9. federated databases; 3.1.5.10. quality of the data; 3.1.5.11. validation of data; 3.1.5.12. automatic data extraction; 5.1. artificial intelligence; 5.2.1. learning paradigms; 5.2.2. learning settings; 5.2.5. cross-validation; 5.2.6. deep learning; 5.2.3.1. classification and regression trees; 5.2.3.2. kernel methods; 5.2.3.3. neural networks; 5.2.3.4. logical and relational learning; 5.2.3.5. learning in probabilistic graphical models; 5.2.3.6. learning linear models; 5.2.3.7. factorization methods; 5.2.3.8. rule learning; 5.2.3.9. instance-based learning; 5.2.3.11. partially-observable markov decision processes; 5.2.3.12. stochastic games; 5.2.3.13. learning latent representations; 5.2.3.14. multiresolution; 5.2.4.1. dynamic programming for markov decision processes; 5.2.4.3. spectral methods; 5.2.4.4. feature selection; 5.2.4.5. regularization; 5.2.4.2.2. bagging; 5.2.4.2.3. fusion of classifiers	1.1.1.4.1. support vector machines; 1.1.1.5. boosting; 1.1.1.16. markov decision processes; 1.1.2.1. data exchange; 3.1.5.3. data exchange; 5.2.3.10. markov decision processes; 5.2.3.15. support vector machines; 5.2.4.2.1. boosting	
+1	theory of computation	0.707	1.239	13.366	1.1.1.1. sample complexity and generalization bounds; 1.1.1.2. boolean function learning; 1.1.1.3. unsupervised learning and clustering; 1.1.1.6. bayesian analysis; 1.1.1.7. inductive inference; 1.1.1.8. online learning theory; 1.1.1.9. multi-agent learning; 1.1.1.10. models of learning; 1.1.1.11. query learning; 1.1.1.12. structured prediction; 1.1.1.13. reinforcement learning; 1.1.1.14. active learning; 1.1.1.15. semi-supervised learning; 1.1.1.17. regret bounds; 1.1.1.4.2. gaussian processes; 1.1.1.4.3. modelling; 1.1.2.2. data provenance; 1.1.2.3. data modeling; 1.1.2.4. database query languages; 1.1.2.5. database constraints theory; 1.1.2.6. database interoperability; 1.1.2.7. data structures and algorithms for data management; 1.1.2.8. database query processing and optimization; 1.1.2.9. data integration; 1.1.2.10. logic and databases; 1.1.2.11. theory of database privacy and security; 1.1.2.12.  inconsistent	1.1.1.4.1. support vector machines; 1.1.1.5. boosting; 1.1.1.16. markov decision processes; 1.1.2.1. data exchange	
+1.1.1	machine learning theory	0.603	0.906	9.298	1.1.1.1. sample complexity and generalization bounds; 1.1.1.2. boolean function learning; 1.1.1.3. unsupervised learning and clustering; 1.1.1.6. bayesian analysis; 1.1.1.7. inductive inference; 1.1.1.8. online learning theory; 1.1.1.9. multi-agent learning; 1.1.1.10. models of learning; 1.1.1.11. query learning; 1.1.1.12. structured prediction; 1.1.1.13. reinforcement learning; 1.1.1.14. active learning; 1.1.1.15. semi-supervised learning; 1.1.1.17. regret bounds; 1.1.1.4.2. gaussian processes; 1.1.1.4.3. modelling	1.1.1.4.1. support vector machines; 1.1.1.5. boosting; 1.1.1.16. markov decision processes	
+1.1.1.1	sample complexity and generalization bounds	0.0	0	0			
+1.1.1.10	models of learning	0.0	0	0			
+1.1.1.11	query learning	0.0	0	0			
+1.1.1.12	structured prediction	0.0	0	0			
+1.1.1.13	reinforcement learning	0.0	0	0.603	1.1.1.13. reinforcement learning		
+1.1.1.14	active learning	0.0	0	0			
+1.1.1.15	semi-supervised learning	0.0	0	0			
+1.1.1.16	markov decision processes	0.365	0.329	0		1.1.1.16. markov decision processes	
+1.1.1.17	regret bounds	0.0	0	0			
+1.1.1.2	boolean function learning	0.0	0	0			
+1.1.1.3	unsupervised learning and clustering	0.0	0	0			
+1.1.1.4	kernel methods	0.43	0.387	0.861	1.1.1.4.2. gaussian processes; 1.1.1.4.3. modelling	1.1.1.4.1. support vector machines	
+1.1.1.4.1	support vector machines	0.43	0.387	0		1.1.1.4.1. support vector machines	
+1.1.1.4.2	gaussian processes	0.0	0	0			
+1.1.1.4.3	modelling	0.0	0	0			
+1.1.1.5	boosting	0.212	0.19	0		1.1.1.5. boosting	
+1.1.1.6	bayesian analysis	0.0	0	0			
+1.1.1.7	inductive inference	0.0	0	0			
+1.1.1.8	online learning theory	0.0	0	0			
+1.1.1.9	multi-agent learning	0.0	0	0			
+1.1.2	database theory	0.37	0.333	4.068	1.1.2.2. data provenance; 1.1.2.3. data modeling; 1.1.2.4. database query languages; 1.1.2.5. database constraints theory; 1.1.2.6. database interoperability; 1.1.2.7. data structures and algorithms for data management; 1.1.2.8. database query processing and optimization; 1.1.2.9. data integration; 1.1.2.10. logic and databases; 1.1.2.11. theory of database privacy and security; 1.1.2.12.  inconsistent	1.1.2.1. data exchange	
+1.1.2.1	data exchange	0.37	0.333	0		1.1.2.1. data exchange	
+1.1.2.10	logic and databases	0.0	0	0			
+1.1.2.11	theory of database privacy and security	0.0	0	0			
+1.1.2.12	 inconsistent	0.0	0	0			
+1.1.2.2	data provenance	0.0	0	0			
+1.1.2.3	data modeling	0.0	0	0			
+1.1.2.4	database query languages	0.0	0	0			
+1.1.2.5	database constraints theory	0.0	0	0			
+1.1.2.6	database interoperability	0.0	0	0			
+1.1.2.7	data structures and algorithms for data management	0.0	0	0			
+1.1.2.8	database query processing and optimization	0.0	0	0			
+1.1.2.9	data integration	0.0	0	0			
+2	mathematics of computing	0.0	0	1.0	2. mathematics of computing		
+3	information systems	0.37	0.333	7.026	3.2. information systems applications; 3.3. world wide web; 3.4. information retrieval; 3.5. internet of things; 3.1.1. database design and models; 3.1.2. data structures; 3.1.3. database management system engines; 3.1.4. query languages; 3.1.5.1. deduplication; 3.1.5.2. extraction transformation and loading; 3.1.5.4. data cleaning; 3.1.5.5. wrappers; 3.1.5.6. mediators and data integration; 3.1.5.7. entity resolution; 3.1.5.8. data warehouses; 3.1.5.9. federated databases; 3.1.5.10. quality of the data; 3.1.5.11. validation of data; 3.1.5.12. automatic data extraction	3.1.5.3. data exchange	
+3.1	data management systems	0.37	0.333	5.547	3.1.1. database design and models; 3.1.2. data structures; 3.1.3. database management system engines; 3.1.4. query languages; 3.1.5.1. deduplication; 3.1.5.2. extraction transformation and loading; 3.1.5.4. data cleaning; 3.1.5.5. wrappers; 3.1.5.6. mediators and data integration; 3.1.5.7. entity resolution; 3.1.5.8. data warehouses; 3.1.5.9. federated databases; 3.1.5.10. quality of the data; 3.1.5.11. validation of data; 3.1.5.12. automatic data extraction	3.1.5.3. data exchange	
+3.1.1	database design and models	0.0	0	0.37	3.1.1. database design and models		
+3.1.2	data structures	0.0	0	0.37	3.1.2. data structures		
+3.1.3	database management system engines	0.0	0	0.37	3.1.3. database management system engines		
+3.1.4	query languages	0.0	0	0.37	3.1.4. query languages		
+3.1.5	information integration	0.37	0.333	4.068	3.1.5.1. deduplication; 3.1.5.2. extraction transformation and loading; 3.1.5.4. data cleaning; 3.1.5.5. wrappers; 3.1.5.6. mediators and data integration; 3.1.5.7. entity resolution; 3.1.5.8. data warehouses; 3.1.5.9. federated databases; 3.1.5.10. quality of the data; 3.1.5.11. validation of data; 3.1.5.12. automatic data extraction	3.1.5.3. data exchange	
+3.1.5.1	deduplication	0.0	0	0			
+3.1.5.10	quality of the data	0.0	0	0			
+3.1.5.11	validation of data	0.0	0	0			
+3.1.5.12	automatic data extraction	0.0	0	0.37	3.1.5.12. automatic data extraction		
+3.1.5.2	extraction transformation and loading	0.0	0	0			
+3.1.5.3	data exchange	0.37	0.333	0		3.1.5.3. data exchange	
+3.1.5.4	data cleaning	0.0	0	0			
+3.1.5.5	wrappers	0.0	0	0			
+3.1.5.6	mediators and data integration	0.0	0	0			
+3.1.5.7	entity resolution	0.0	0	0			
+3.1.5.8	data warehouses	0.0	0	0			
+3.1.5.9	federated databases	0.0	0	0			
+3.2	information systems applications	0.0	0	0.37	3.2. information systems applications		
+3.3	world wide web	0.0	0	0.37	3.3. world wide web		
+3.4	information retrieval	0.0	0	0.37	3.4. information retrieval		
+3.5	internet of things	0.0	0	0.37	3.5. internet of things		
+4	human-centered computing	0.0	0	1.0	4. human-centered computing		
+5	computing methodologies	0.603	0.906	11.619	5.1. artificial intelligence; 5.2.1. learning paradigms; 5.2.2. learning settings; 5.2.5. cross-validation; 5.2.6. deep learning; 5.2.3.1. classification and regression trees; 5.2.3.2. kernel methods; 5.2.3.3. neural networks; 5.2.3.4. logical and relational learning; 5.2.3.5. learning in probabilistic graphical models; 5.2.3.6. learning linear models; 5.2.3.7. factorization methods; 5.2.3.8. rule learning; 5.2.3.9. instance-based learning; 5.2.3.11. partially-observable markov decision processes; 5.2.3.12. stochastic games; 5.2.3.13. learning latent representations; 5.2.3.14. multiresolution; 5.2.4.1. dynamic programming for markov decision processes; 5.2.4.3. spectral methods; 5.2.4.4. feature selection; 5.2.4.5. regularization; 5.2.4.2.2. bagging; 5.2.4.2.3. fusion of classifiers	5.2.3.10. markov decision processes; 5.2.3.15. support vector machines; 5.2.4.2.1. boosting	
+5.1	artificial intelligence	0.0	0	0.603	5.1. artificial intelligence		
+5.2	machine learning	0.603	0.906	11.017	5.2.1. learning paradigms; 5.2.2. learning settings; 5.2.5. cross-validation; 5.2.6. deep learning; 5.2.3.1. classification and regression trees; 5.2.3.2. kernel methods; 5.2.3.3. neural networks; 5.2.3.4. logical and relational learning; 5.2.3.5. learning in probabilistic graphical models; 5.2.3.6. learning linear models; 5.2.3.7. factorization methods; 5.2.3.8. rule learning; 5.2.3.9. instance-based learning; 5.2.3.11. partially-observable markov decision processes; 5.2.3.12. stochastic games; 5.2.3.13. learning latent representations; 5.2.3.14. multiresolution; 5.2.4.1. dynamic programming for markov decision processes; 5.2.4.3. spectral methods; 5.2.4.4. feature selection; 5.2.4.5. regularization; 5.2.4.2.2. bagging; 5.2.4.2.3. fusion of classifiers	5.2.3.10. markov decision processes; 5.2.3.15. support vector machines; 5.2.4.2.1. boosting	
+5.2.1	learning paradigms	0.0	0	0.603	5.2.1. learning paradigms		
+5.2.2	learning settings	0.0	0	0.603	5.2.2. learning settings		
+5.2.3	machine learning approaches	0.564	0.716	7.337	5.2.3.1. classification and regression trees; 5.2.3.2. kernel methods; 5.2.3.3. neural networks; 5.2.3.4. logical and relational learning; 5.2.3.5. learning in probabilistic graphical models; 5.2.3.6. learning linear models; 5.2.3.7. factorization methods; 5.2.3.8. rule learning; 5.2.3.9. instance-based learning; 5.2.3.11. partially-observable markov decision processes; 5.2.3.12. stochastic games; 5.2.3.13. learning latent representations; 5.2.3.14. multiresolution	5.2.3.10. markov decision processes; 5.2.3.15. support vector machines	
+5.2.3.1	classification and regression trees	0.0	0	0.564	5.2.3.1. classification and regression trees		
+5.2.3.10	markov decision processes	0.365	0.329	0		5.2.3.10. markov decision processes	
+5.2.3.11	partially-observable markov decision processes	0.0	0	0			
+5.2.3.12	stochastic games	0.0	0	0			
+5.2.3.13	learning latent representations	0.0	0	0.564	5.2.3.13. learning latent representations		
+5.2.3.14	multiresolution	0.0	0	0			
+5.2.3.15	support vector machines	0.43	0.387	0		5.2.3.15. support vector machines	
+5.2.3.2	kernel methods	0.0	0	0.564	5.2.3.2. kernel methods		
+5.2.3.3	neural networks	0.0	0	0.564	5.2.3.3. neural networks		
+5.2.3.4	logical and relational learning	0.0	0	0.564	5.2.3.4. logical and relational learning		
+5.2.3.5	learning in probabilistic graphical models	0.0	0	0.564	5.2.3.5. learning in probabilistic graphical models		
+5.2.3.6	learning linear models	0.0	0	0.564	5.2.3.6. learning linear models		
+5.2.3.7	factorization methods	0.0	0	0.564	5.2.3.7. factorization methods		
+5.2.3.8	rule learning	0.0	0	0.564	5.2.3.8. rule learning		
+5.2.3.9	instance-based learning	0.0	0	0			
+5.2.4	machine learning algorithms	0.212	0.19	1.269	5.2.4.1. dynamic programming for markov decision processes; 5.2.4.3. spectral methods; 5.2.4.4. feature selection; 5.2.4.5. regularization; 5.2.4.2.2. bagging; 5.2.4.2.3. fusion of classifiers	5.2.4.2.1. boosting	
+5.2.4.1	dynamic programming for markov decision processes	0.0	0	0.212	5.2.4.1. dynamic programming for markov decision processes		
+5.2.4.2	ensemble methods	0.212	0.19	0.423	5.2.4.2.2. bagging; 5.2.4.2.3. fusion of classifiers	5.2.4.2.1. boosting	
+5.2.4.2.1	boosting	0.212	0.19	0		5.2.4.2.1. boosting	
+5.2.4.2.2	bagging	0.0	0	0			
+5.2.4.2.3	fusion of classifiers	0.0	0	0			
+5.2.4.3	spectral methods	0.0	0	0.212	5.2.4.3. spectral methods		
+5.2.4.4	feature selection	0.0	0	0			
+5.2.4.5	regularization	0.0	0	0.212	5.2.4.5. regularization		
+5.2.5	cross-validation	0.0	0	0			
+5.2.6	deep learning	0.0	0	0.603	5.2.6. deep learning		
